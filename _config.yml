@@ -11,11 +11,11 @@ future: true # Enable future posts (date > current date)
 
 
 # Site Settings
-title: "Research Bazaar Queensland"
-email: "mailto:resbaz@qcif.edu.au"
+title: "Research Bazaar Norther Territory"
+email: "mailto:jerome.apresto@cdu.edu.au"
 description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
-baseurl: "/resbaz2022qld"
-url: "https://resbaz.github.io/resbaz2022qld"
+baseurl: "/resbaz2023NT"
+url: "https://cdunilibrary.github.io/resbaz2023NT/"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "matty-plumski.github.io"
