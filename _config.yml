@@ -44,9 +44,9 @@ c4sponsorsUrl: "https://www.qcif.edu.au"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/news/", text: "News"}
- - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/sessions/", text: "Sessions"}
+# - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Getting here"}
  - {permalink: "/partners/", text: "Partners & Sponsors"}
  - {permalink: "/registration/", text: "Register"}
