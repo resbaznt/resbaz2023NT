@@ -7,10 +7,10 @@
   thumbnailUrl: "awilson.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
-    - {abbr: "RSE AUNZ", title: "Association of Research Software Engineers in Australia and New Zealand", url: "https://rse-aunz.github.io/"}
-    - {abbr: "ReSA", title: "Research Software Alliance", url: "https://www.researchsoft.org/"}
-    - {abbr: "VRS", title: "Visible Research Software Interest Group", url: "https://sites.google.com/ardc.edu.au/visible-research-software"}
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+    #- {abbr: "RSE AUNZ", title: "Association of Research Software Engineers in Australia and New Zealand", url: "https://rse-aunz.github.io/"}
+    #- {abbr: "ReSA", title: "Research Software Alliance", url: "https://www.researchsoft.org/"}
+    #- {abbr: "VRS", title: "Visible Research Software Interest Group", url: "https://sites.google.com/ardc.edu.au/visible-research-software"}
 -
   id: 2
   name: "Benjamin"
@@ -22,4 +22,4 @@ Benjamin’s interdisciplinary programs of research focus on empirical developme
   thumbnailUrl: "btan.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
