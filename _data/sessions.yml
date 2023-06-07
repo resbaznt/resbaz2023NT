@@ -35,14 +35,14 @@
   #service: true
   hidden: true
   description: "What we search for reveals something about ourselves: about what we don’t know, what we have forgotten, or what we want to know more about. In a similar vein, what a group of people search for reveals something about the group. <br><br>The Digital Collections Catalyst 2021 transformed more than ten years of State Library of Queensland catalogue search terms and created an interactive landscape based on the language, themes, subjects, and terms involved. <br><br>The result is a dynamic tool that helps us to understand what, when and how our users are searching the catalogue, and showcases the benefits of supporting developers and creatives to use our digital collections and collections data in highly creative and experimental ways.  <br><br>https://www.slq.qld.gov.au/digitalcatalyst"
--
-  id: 1052
-  title: "ARDC: Tools to accelerate your research by Andy White"
-  subtype: talk
-  speakers: [2]
-  #service: true
-  hidden: true
-  description: "This session will provide you with an overview of the Australian Research Data Commons, the tools and services on offer and provide a practical overview of FAIR. "
+#-
+  #id: 1052
+  #title: "ARDC: Tools to accelerate your research by Andy White"
+  #subtype: talk
+  #speakers: [2]
+  ##service: true
+  #hidden: true
+  #description: "This session will provide you with an overview of the Australian Research Data Commons, the tools and services on offer and provide a practical overview of FAIR. "
 -
   id: 1053
   title: "Learn the Art of Visual Storytelling!"
@@ -58,14 +58,14 @@
   #service: true
   hidden: true
   description: "Although R programming has been a part of research since its origins in the 1990s, few research studies have addressed scientific software development from a Software Engineering (SE) perspective. The past few years have seen unparalleled growth in the R community, and it is time to push the boundaries of SE research and R programming forwards. </br></br>This talk will summarise the findings of SE research at the intersection with technical debt, when applied to R programming. We will discuss testing debt, documentation debt, self-admitted technical debt, and avoidance of CRAN checks. Additionally, it will propose a set of good practices derived from those findings aiming to act as a call-to-arms for both the R and RSE (Research SE) community to explore specific, interdisciplinary paths of research. "
--
-  id: 1055
-  title: "How can Collaborative-Coding help your research? by Dr Paula Martinez"
-  subtype: talk
-  speakers: [1]
-  #service: true
-  hidden: true
-  description: "Let's face it, as researchers, we know that the best outcomes are produced when we collaborate with others. We can gain and share expertise, learn more, and challenge ourselves to improve. Then, why don't we apply the same guidelines of efficient collaboration to writing analysis code? Collaboration is a strategy in which multiple people work together to accomplish a particular goal; the best is that it can be applied to everything we do. Has the thought of 'cross fertilisation between industry and academia' crossed your mind? One of the ground rules of industry development teams is to 'not work alone'. In academia, we tend to work in silos or be solo drivers. In this talk, I will go through the benefits of collaborative coding and show examples of how it would help your research and give you a competitive advantage in the future. "
+#-
+  #id: 1055
+  #title: "How can Collaborative-Coding help your research? by Dr Paula Martinez"
+  #subtype: talk
+  #speakers: [1]
+  ##service: true
+  #hidden: true
+  #description: "Let's face it, as researchers, we know that the best outcomes are produced when we collaborate with others. We can gain and share expertise, learn more, and challenge ourselves to improve. Then, why don't we apply the same guidelines of efficient collaboration to writing analysis code? Collaboration is a strategy in which multiple people work together to accomplish a particular goal; the best is that it can be applied to everything we do. Has the thought of 'cross fertilisation between industry and academia' crossed your mind? One of the ground rules of industry development teams is to 'not work alone'. In academia, we tend to work in silos or be solo drivers. In this talk, I will go through the benefits of collaborative coding and show examples of how it would help your research and give you a competitive advantage in the future. "
 -
   id: 1056
   title: "A journey in genomics software: from consumer to developer by Dr Cam Hyde"
