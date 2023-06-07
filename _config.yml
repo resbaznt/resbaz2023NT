@@ -207,18 +207,9 @@ footerBlocks:
    - {link: "https://www.intersect.org.au", text: "Intersect", imageUrl: "../img/organizers/intersect.jpg"}
    #- {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
  -  
-  title: "Collaborating Institutes"
-  links:
-   - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "https://www.griffith.edu.au/_globaldesigns/gen-10/images/griffith-logo-2.svg"}
-   - {text: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
-   - {text: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
-   - {text: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
-   - {text: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
-   - {text: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/", imageUrl: "../img/organizers/bond-university-logo.png"}
- -  
   title: "Contacts"
   links:
-   - {link: "mailto:joanna.dziedzic@cdu.edu.au", text: "joanna.dziedzic@cdu.edu.au"}
+   - {link: "mailto:askthelibrary@cdu.edu.au", text: "askthelibrary@cdu.edu.au"}
 #   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Volunteer as a helper for ResBaz"}
  -
   title: "FAQ"
