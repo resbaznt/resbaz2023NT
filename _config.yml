@@ -190,7 +190,7 @@ twitterFeed: "https://twitter.com/ResBazNT"
 # Footer
 socialLinks:
  - {link: "https://twitter.com/ResBazNT", icon: "twitter"}
- - {link: "https://www.qcif.edu.au/", icon: "site"}
+# - {link: "https://www.qcif.edu.au/", icon: "site"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", icon: "mail"}
 footerBlocks:
  -
