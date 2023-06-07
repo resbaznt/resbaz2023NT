@@ -13,7 +13,7 @@ future: true # Enable future posts (date > current date)
 # Site Settings
 title: "Research Bazaar Norther Territory"
 email: "mailto:jerome.apresto@cdu.edu.au"
-description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
+description: "Run by a team of volunteers from Northern Territory universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
 baseurl: "/resbaz2023NT"
 url: "https://cdunilibrary.github.io/resbaz2023NT/"
 permalink: "/blog/:title"
@@ -105,19 +105,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "N53 Level 0 (directly behind library), Nathan Campus, Griffith University"
-eventLocationLink: "https://goo.gl/maps/VBJA7bbp3Qp6FB9a6"
-eventStreetAddress: "170 Kessels rd"
-eventAddressLocality: "Griffith University - Nathan Campus"
-eventAddressLocalityRegion: "Nathan, Brisbane"
-eventPostalCode: "4101"
+eventLocationName: "Level 3, Waterfront Campus, Charles Darwin University"
+eventLocationLink: "https://goo.gl/maps/KvM47PSpPePKR3Je8"
+eventStreetAddress: "21 Kitchener Dr, Darwin City NT 0800"
+eventAddressLocality: "Charles Darwin University - Waterfront Campus"
+eventAddressLocalityRegion: "Darwin, Northern Territory"
+eventPostalCode: "0810"
 eventAddressCountry: "Australia"
-eventStartTime: "2022-11-01T09:00"
+eventStartTime: "2023-10-25T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2022-11-03T17:00"
-eventPlaceCoordinates: "-27.551685966721287, 153.05350886072333"
-mapCenterCoordinates: "-27.551685966721287, 153.05350886072333"
-mapMobileCenterCoordinates: "-27.551685966721287, 153.05350886072333"
+eventEndTime: "2023-10-26T17:00"
+eventPlaceCoordinates: "-12.468642996307036, 130.84562106144338"
+mapCenterCoordinates: "-12.468642996307036, 130.84562106144338"
+mapMobileCenterCoordinates: "-12.468642996307036, 130.84562106144338"
 
 # Venue Block
 # venueBlockTitle: "Past Events"
@@ -131,8 +131,8 @@ mapMobileCenterCoordinates: "-27.551685966721287, 153.05350886072333"
 # Tweets Feed Block
 tweetsFeedImage: "PurpleF_ResbazQld_NathCampus.jpg"
 tweetsFeedTitle: "What's the latest?"
-twitterHashTag: "ResBazQld"
-twitterFeed: "https://twitter.com/ResBazQld"
+twitterHashTag: "ResBazNT"
+twitterFeed: "https://twitter.com/ResBazNT"
 
 # Partners Block
 # organizersTitle: "Organisers"
@@ -189,7 +189,7 @@ twitterFeed: "https://twitter.com/ResBazQld"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/ResBazQld", icon: "twitter"}
+ - {link: "https://twitter.com/ResBazNT", icon: "twitter"}
  - {link: "https://www.qcif.edu.au/", icon: "site"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", icon: "mail"}
 footerBlocks:
@@ -200,7 +200,7 @@ footerBlocks:
  -
   title: "Gold Sponsors"
   links:
-    - {link: "https://www.cdu.edu.au", text: "AWS", imageUrl: "../img/organizers/cdu.jpg"}
+    - {link: "https://www.cdu.edu.au", text: "CDU", imageUrl: "../img/organizers/cdu.jpg"}
  -    
   title: "Silver Sponsor"
   links:
@@ -218,7 +218,7 @@ footerBlocks:
  -  
   title: "Contacts"
   links:
-   - {link: "mailto:resbaz@qcif.edu.au", text: "resbaz@qcif.edu.au"}
+   - {link: "mailto:joanna.dziedzic@cdu.edu.au", text: "joanna.dziedzic@cdu.edu.au"}
 #   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Volunteer as a helper for ResBaz"}
  -
   title: "FAQ"
