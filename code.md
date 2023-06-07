@@ -62,11 +62,11 @@ Harassment includes:
 * unwelcome sexual attention.
 * Participants asked to stop any harassing behaviors are expected to comply immediately. Any member of the Research Bazaar staff can issue a verbal warning to a participant that their behaviour violates the conference’s anti-harassment policy. A record of complaints received and warnings issued will be maintained to enable any repeat offenders to be identified.
 
-If a participant engages in harassing behaviors, the anti-harassment officers may take any action they deem appropriate, including warning the offender or expulsion from the event.
+If a participant engages in harassing behaviors, the CDU Contact officers may take any action they deem appropriate, including warning the offender or expulsion from the event.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the anti-harassment officers or your site host immediately. If you are being harassed by an anti-harassment officer or otherwise don’t feel safe reporting to them, you are welcome to contact a a [Griffith University Harassment and Discrimination Officer](https://www.griffith.edu.au/safe-campuses/harassment-and-discrimination-officer-network).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the CDU Contact officers or your site host immediately. 
 
-Anti-harassment officers will be happy to help attendees contact police or crisis services, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+CDU Contact officers will be happy to help attendees contact police or crisis services, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 We value your attendance. We expect participants to follow these rules at the Research Bazaar venue, any related social events, and online forums.
 
