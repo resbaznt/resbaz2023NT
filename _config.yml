@@ -77,11 +77,11 @@ The aim of these events is to equip researchers from all career stages with the 
 <p><b>Our Goals</b></p>
 <p>With a focus on people over technology, we strive to foster a community of researchers across institutions and disciplines to promote principles of:
 </p>
-<ul>
-<li>Open Research</li>
-<li>Digital Literacy</li>
-<li>Open source tools and software</li>
-</ul>
+<table align='center'>
+<tr><td>Open Research</td><tr>
+<tr><td>Digital Literacy</td><tr>
+<tr><td>Open source tools and software</td><tr>
+</table>
 
 
 "
