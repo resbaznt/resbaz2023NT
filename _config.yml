@@ -204,7 +204,7 @@ footerBlocks:
  -    
   title: "Silver Sponsor"
   links:
-   - {link: "https://www.intersect.org.au", text: "GALE", imageUrl: "../img/organizers/intersect.jpg"}
+   - {link: "https://www.intersect.org.au", text: "Intersect", imageUrl: "../img/organizers/intersect.jpg"}
    #- {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
  -  
   title: "Collaborating Institutes"
