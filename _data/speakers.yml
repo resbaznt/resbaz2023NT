@@ -1,10 +1,10 @@
 - 
   id: 1
-  name: "Dr Paula Andrea"
-  surname: "Martinez"
-  title: "Software Project Coordinator, ARDC"
-  bio: "Dr Paula Andrea Martinez is the Software Project Coordinator at the Australian Research Data Commons (ARDC). She leads projects that improve the recognition of research software and research software authors. She is also an advocate of open science and diversity and active in various community projects such as the Research Software Alliance (ReSA), the Visible Research Software Interest Group (VRS), the Association of Research Software Engineers in Australia and New Zealand (RSE AUNZ)."
-  thumbnailUrl: "Pau-Jacaranda.png"
+  name: "Aidan"
+  surname: "Wilson"
+  title: "Digital Research Services Manager, Intersect"
+  bio: "Aidan Wilson is Intersect's Digital Research Services Manager, where his role includes administration and user support for REDCap, Qualtrics, and a host of other research software applications. When he was a researcher himself, he studied the Aboriginal languages of Australia's top-end and wrote his Master's thesis on Traditional Tiwi."
+  thumbnailUrl: "awilson.jpg"
   rockstar: true
   ribbon:
     - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
@@ -13,11 +13,13 @@
     - {abbr: "VRS", title: "Visible Research Software Interest Group", url: "https://sites.google.com/ardc.edu.au/visible-research-software"}
 -
   id: 2
-  name: "Andrew"
-  surname: "White"
-  title: "Data Consultant, ARDC"
-  bio: "Andrew (Andy) White works for the Australian Research Data Commons (ARDC) as an Engagements Data Consultant. His role is to provide engagements with ARDC partners on activities related to national data management infrastructure including facilitating the Data Repositories Community of Practice, State based Data Roundtables and FAIR workshops. "
-  thumbnailUrl: "AWhite.jpg"
+  name: "Benjamin"
+  surname: "Tan"
+  title: "Professor, Charles Darwin University"
+  bio: "Professor Benjamin Tan is the Head of School (Nursing) in the Faculty of Health at Charles Darwin University (CDU), providing leadership in capacity building in learning and teaching, scholarship, and research and research training in the school spanning six locations across Australia. He is an Adjunct Professor at The Hong Kong Polytechnic University and the Southwest Medical University Hospital. Benjamin currently leads the Charles Darwin Centre for Evidence-Based Practice as the Foundation Co-Director and the Mental Health and Supportive Care Research Group as the Foundation Head at CDU Faculty of Health.
+Benjamin’s interdisciplinary programs of research focus on empirical development and the evaluation of evidence-based supportive care interventions for cancer symptom management. He and his interdisciplinary research team have developed and sustained intensive linkages with research collaborators in Australia, HKSAR, Singapore, the UK, and China Mainland, which have so far resulted in over 120 high-quality publications in peer-reviewed journals and conference presentations, as well as more than 28 funded projects with a total award exceeding AUD$2.9 million. His research has been adopted in numerous international and national practice guidelines, including those developed by the European Society for Medical Oncology, the American College of Chest Physicians, Cancer Care Ontario, the UK National Institute for Health and Care Excellence, the US Department of Veterans Affairs/Department of Defense, China Anti-Cancer Association, and the US Council of Colleges of Acupuncture and Oriental Medicine.
+"
+  thumbnailUrl: "btan.jpg"
   rockstar: true
   ribbon:
     - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
