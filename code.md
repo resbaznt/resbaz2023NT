@@ -70,4 +70,4 @@ CDU Contact officers will be happy to help attendees contact police or crisis se
 
 We value your attendance. We expect participants to follow these rules at the Research Bazaar venue, any related social events, and online forums.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/NT_Banner1.jpg" style="display:none">
