@@ -5,7 +5,8 @@
   title: "Digital Research Services Manager, Intersect"
   bio: "Aidan is Intersect Australia's Digital Research Services Manager, a role that involves management of Intersect's Digital Research training platform. Aidan is an accredited Software Carpentry instructor and has taught countless courses on topics including Python, R, Unix, Git, Regular Expressions, Qualtrics and REDCap. During his time as Digital Research Analyst at Australian Catholic University, Aidan supported the university's research community to learn and use technologies to accelerate their research. Before that, Aidan was an active linguistics researcher, specialising in the Aboriginal languages of Australia's top-end. His Master's thesis focused on the verb morphology of Traditional Tiwi."
   thumbnailUrl: "awilson.png"
-  rockstar: true
+  # set this rockstar to true for keynote speaker
+  rockstar: false
   ribbon:
     #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
     #- {abbr: "RSE AUNZ", title: "Association of Research Software Engineers in Australia and New Zealand", url: "https://rse-aunz.github.io/"}
@@ -20,6 +21,7 @@
 Benjamin’s interdisciplinary programs of research focus on empirical development and the evaluation of evidence-based supportive care interventions for cancer symptom management. He and his interdisciplinary research team have developed and sustained intensive linkages with research collaborators in Australia, HKSAR, Singapore, the UK, and China Mainland, which have so far resulted in over 120 high-quality publications in peer-reviewed journals and conference presentations, as well as more than 28 funded projects with a total award exceeding AUD$2.9 million. His research has been adopted in numerous international and national practice guidelines, including those developed by the European Society for Medical Oncology, the American College of Chest Physicians, Cancer Care Ontario, the UK National Institute for Health and Care Excellence, the US Department of Veterans Affairs/Department of Defense, China Anti-Cancer Association, and the US Council of Colleges of Acupuncture and Oriental Medicine.
 "
   thumbnailUrl: "btan.jpg"
-  rockstar: true
+  # set this rockstar to true for keynote speaker
+  rockstar: false
   ribbon:
     #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
