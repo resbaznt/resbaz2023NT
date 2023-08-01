@@ -1,8 +1,8 @@
 -
   group: "Gold Sponsors"
   elements: 
-    - {name: "Charles Darwin University", description: "Charles Darwin University", link: "https://www.cdu.edu.au", imageUrl: "../img/organizers/cdu.jpg"}
-    - {name: "Intersect", description: "Intersect", link: "https://www.intersect.org.au", imageUrl: "../img/organizers/intersect.jpg"}
+    - {name: "", description: "Charles Darwin University", link: "https://www.cdu.edu.au", imageUrl: "../img/organizers/cdu.jpg"}
+    - {name: "", description: "Intersect", link: "https://www.intersect.org.au", imageUrl: "../img/organizers/intersect.jpg"}
 -
   group: "Silver Sponsors"
   elements: 
@@ -11,7 +11,7 @@
 -
   group: "Main organisers"
   elements: 
-     - {name: "CDU", description: "Charles Darwin University", link: "https://www.cdu.edu.au/", imageUrl: "../img/organizers/cdu.jpg", width: "120px"}
+     - {name: "", description: "Charles Darwin University", link: "https://www.cdu.edu.au/", imageUrl: "../img/organizers/cdu.jpg", width: "120px"}
      #- {name: "Griffith Uni", description: "Griffith Uni", link: "https://www.griffith.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
 - 
   #group: "Co-organisers"
