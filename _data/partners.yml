@@ -1,11 +1,12 @@
 - 
   group: "Gold Sponsors"
   elements: 
-    - {name: "Charles Darwin University", description: "Charles Darwin University", link: "https://www.cdu.edu.au", imageUrl: "cdu.jpg"}
+    - {name: "Charles Darwin University", description: "", link: "https://www.cdu.edu.au", imageUrl: "cdu.jpg"}
+    - {name: "Intersect", description: "", link: "https://www.intersect.org.au/", imageUrl: "intersect.jpg"}
 -
   group: "Silver Sponsors"
   elements: 
-    - {name: "Intersect", description: "Intersect", link: "https://www.intersect.org.au/", imageUrl: "intersect.jpg"}
+    #- {name: "Intersect", description: "", link: "https://www.intersect.org.au/", imageUrl: "intersect.jpg"}
     #- {name: "Gale", description: "GALE", link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", imageUrl: "gale.jpg"}
 
   #group: "With the support of"
