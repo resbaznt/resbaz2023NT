@@ -27,14 +27,14 @@
   service: true
   hidden: true
   description: "Join us in N02 Cinema (across the road from the main food hall) "
--
-  id: 1051
-  title: "The Topography of Searching by Amy Walduck"
-  subtype: talk
-  speakers: [5]
-  #service: true
-  hidden: true
-  description: "What we search for reveals something about ourselves: about what we don’t know, what we have forgotten, or what we want to know more about. In a similar vein, what a group of people search for reveals something about the group. <br><br>The Digital Collections Catalyst 2021 transformed more than ten years of State Library of Queensland catalogue search terms and created an interactive landscape based on the language, themes, subjects, and terms involved. <br><br>The result is a dynamic tool that helps us to understand what, when and how our users are searching the catalogue, and showcases the benefits of supporting developers and creatives to use our digital collections and collections data in highly creative and experimental ways.  <br><br>https://www.slq.qld.gov.au/digitalcatalyst"
+#-
+  #id: 1051
+  #title: "The Topography of Searching by Amy Walduck"
+  #subtype: talk
+  #speakers: [5]
+  ##service: true
+  #hidden: true
+  #description: "What we search for reveals something about ourselves: about what we don’t know, what we have forgotten, or what we want to know more about. In a similar vein, what a group of people search for reveals something about the group. <br><br>The Digital Collections Catalyst 2021 transformed more than ten years of State Library of Queensland catalogue search terms and created an interactive landscape based on the language, themes, subjects, and terms involved. <br><br>The result is a dynamic tool that helps us to understand what, when and how our users are searching the catalogue, and showcases the benefits of supporting developers and creatives to use our digital collections and collections data in highly creative and experimental ways.  <br><br>https://www.slq.qld.gov.au/digitalcatalyst"
 #-
   #id: 1052
   #title: "ARDC: Tools to accelerate your research by Andy White"
