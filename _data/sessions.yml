@@ -44,12 +44,12 @@
   #hidden: true
   #description: "This session will provide you with an overview of the Australian Research Data Commons, the tools and services on offer and provide a practical overview of FAIR. "
 #-
-  #id: 1053
-  #title: "Learn the Art of Visual Storytelling!"
-  #subtype: talk
+  id: 1053
+  title: "An Introduction to R"
+  subtype: talk
   ##speakers: [3]
-  #service: true
-  #description: "Indi is a visual storyteller who brings complex strategies and deep research to life, via delightful and impactful data-driven graphics and illustrations that are meaningful to larger audiences. In this session Indi will share how visual storytelling can be used as a research communication tool and will give all attendees her cheat sheet for transforming research into accessible and visual stories, that stick."
+  service: true
+  description: "An introduction to data cleaning, visualisation and reporting in R"
 #-
   #id: 1054
   #title: "Technical Debt and Software Engineering for R Programming: Improving the Development of your Datascience Code by Dr Melina Vidoni (virtually hosted)"
