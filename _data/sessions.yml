@@ -48,23 +48,24 @@
   title: "An Introduction to R"
   subtype: talk
   speakers: [3]
-  service: true
+  #service: true
   description: "This is an introductory workshop about R/R studio for those who have not used R before. We will use the online R studio environment on Posit Cloud and get familiar with the R studio interface, import a dataset and do some basic summary statistics and plotting while using an R script."
 -
   id: 1054
   title: "An introduction to data cleaning, visualisation and reporting in R"
   subtype: talk
   speakers: [3]
-  service: true
+  #service: true
   description: "This beginner’s workshop is all about data cleaning and visualisation using the R package tidyverse. After cleaning our data, we will create various plots for data exploration and present these in an interactive html or pdf report using R Markdown. "
-#-
-  #id: 1054
-  #title: "Technical Debt and Software Engineering for R Programming: Improving the Development of your Datascience Code by Dr Melina Vidoni (virtually hosted)"
-  #subtype: talk
-  #speakers: [4]
-  ##service: true
-  #hidden: true
-  #description: "Although R programming has been a part of research since its origins in the 1990s, few research studies have addressed scientific software development from a Software Engineering (SE) perspective. The past few years have seen unparalleled growth in the R community, and it is time to push the boundaries of SE research and R programming forwards. </br></br>This talk will summarise the findings of SE research at the intersection with technical debt, when applied to R programming. We will discuss testing debt, documentation debt, self-admitted technical debt, and avoidance of CRAN checks. Additionally, it will propose a set of good practices derived from those findings aiming to act as a call-to-arms for both the R and RSE (Research SE) community to explore specific, interdisciplinary paths of research. "
+-
+  id: 1055
+  title: "Introducing the Gale Digital Scholar Lab: Explore Primary Sources Through a New Lens "
+  subtype: talk
+  speakers: [4]
+  #service: true
+  hidden: true
+  description: "Gale Digital Scholar Lab, developed with participation from beta testers across a wide range of institutions and organisations, is designed to transform the way scholars and students access and analyse Gale primary source materials by offering solutions to some of the most common challenges facing researchers in the digital humanities today. The Gale Digital Scholar Lab was officially released in 2018 and has continued to grow in popularity with Academics and Institutions across the world. . By integrating an unmatched depth and breadth of digital primary source matter with the most popular DH tools, Gale Digital Scholar Lab provides a new lens to explore history and empowers researchers to generate world-altering conclusions and outcomes. Through advanced humanities computing tools that make natural language processing (NLP) for historical texts accessible, more efficient, and impactful, the footprint of digital humanities can be expanded to more classrooms around the globe. 
+Researching primary sources & text and data mining have become more intuitive and easier to access without having the prerequisite skills in digital humanities.  This presentation will provide an introductory overview of the Gale Digital Scholar Lab, exploring the tools and functionality recently added for a better user experience.  We will explore how Students/Academics/ Researchers, and Librarians can use the Gale Digital Scholar Lab to search through their institution's primary source holdings from Gale or upload their own content to build their content sets using articles from various historical newspapers, analyse this content using the TDM tools available in the Lab and finally export the visualisations from the Lab. "
 #-
   #id: 1055
   #title: "How can Collaborative-Coding help your research? by Dr Paula Martinez"
@@ -73,14 +74,14 @@
   ##service: true
   #hidden: true
   #description: "Let's face it, as researchers, we know that the best outcomes are produced when we collaborate with others. We can gain and share expertise, learn more, and challenge ourselves to improve. Then, why don't we apply the same guidelines of efficient collaboration to writing analysis code? Collaboration is a strategy in which multiple people work together to accomplish a particular goal; the best is that it can be applied to everything we do. Has the thought of 'cross fertilisation between industry and academia' crossed your mind? One of the ground rules of industry development teams is to 'not work alone'. In academia, we tend to work in silos or be solo drivers. In this talk, I will go through the benefits of collaborative coding and show examples of how it would help your research and give you a competitive advantage in the future. "
-#-
-  #id: 1056
-  #title: "A journey in genomics software: from consumer to developer by Dr Cam Hyde"
-  #subtype: talk
-  #speakers: [6]
-  ##service: true
-  #hidden: true
-  #description: "My research Career started in the wet lab seven years ago, doing my Honors project. I was studying the TSH receptor gene in Atlantic salmon – PCRs, genetic cloning, sanger sequencing. With the time between runs I’d dash back to the laptop to complement my experimental work with some bioinformatics. In those days my attempt at sequence analysis was ham-fisted, awkward and tedious, with a lot of manual work that was entirely unnecessary. I was learning the hard way, like many students do. During my PhD I resolved to streamlining these tasks and began learning how to automate analyses with Python. This incredible programming language gradually exposed me to the world of software development. With the publication of my thesis I released a web database which serves as an interface for my research data, and others data like it. During my PhD, the time spend developing this software became a guilty pleasure, a clear indication that this was the path I should follow. Today I work on developing national platforms for bioinformatics, with most of my time spent on Galaxy Australia."
+-
+  id: 1056
+  title: "Systems for online knowledge sharing: putting data back in the hands of First Nations community"
+  subtype: talk
+  speakers: [6]
+  #service: true
+  hidden: true
+  description: "Dr Kutay will explain why she has been setting up new sites with research students to handle Aboriginal knowledge sharing. The system Dr Kutay will be demonstrating is designed to be used by different people as their own site. It is not that easy to set up a new site, but when a new site is set up, users can add their own stories and share these. One or two demo sites will be shown as examples of how it is used and what can be done to improve the knowledge sharing back to community. "
 -
   id: 106
   title: "Afternoon tea"
