@@ -43,21 +43,21 @@
   ##service: true
   #hidden: true
   #description: "This session will provide you with an overview of the Australian Research Data Commons, the tools and services on offer and provide a practical overview of FAIR. "
--
-  id: 1053
-  title: "Learn the Art of Visual Storytelling!"
-  subtype: talk
-  speakers: [3]
+#-
+  #id: 1053
+  #title: "Learn the Art of Visual Storytelling!"
+  #subtype: talk
+  ##speakers: [3]
   #service: true
-  description: "Indi is a visual storyteller who brings complex strategies and deep research to life, via delightful and impactful data-driven graphics and illustrations that are meaningful to larger audiences. In this session Indi will share how visual storytelling can be used as a research communication tool and will give all attendees her cheat sheet for transforming research into accessible and visual stories, that stick."
--
-  id: 1054
-  title: "Technical Debt and Software Engineering for R Programming: Improving the Development of your Datascience Code by Dr Melina Vidoni (virtually hosted)"
-  subtype: talk
-  speakers: [4]
-  #service: true
-  hidden: true
-  description: "Although R programming has been a part of research since its origins in the 1990s, few research studies have addressed scientific software development from a Software Engineering (SE) perspective. The past few years have seen unparalleled growth in the R community, and it is time to push the boundaries of SE research and R programming forwards. </br></br>This talk will summarise the findings of SE research at the intersection with technical debt, when applied to R programming. We will discuss testing debt, documentation debt, self-admitted technical debt, and avoidance of CRAN checks. Additionally, it will propose a set of good practices derived from those findings aiming to act as a call-to-arms for both the R and RSE (Research SE) community to explore specific, interdisciplinary paths of research. "
+  #description: "Indi is a visual storyteller who brings complex strategies and deep research to life, via delightful and impactful data-driven graphics and illustrations that are meaningful to larger audiences. In this session Indi will share how visual storytelling can be used as a research communication tool and will give all attendees her cheat sheet for transforming research into accessible and visual stories, that stick."
+#-
+  #id: 1054
+  #title: "Technical Debt and Software Engineering for R Programming: Improving the Development of your Datascience Code by Dr Melina Vidoni (virtually hosted)"
+  #subtype: talk
+  #speakers: [4]
+  ##service: true
+  #hidden: true
+  #description: "Although R programming has been a part of research since its origins in the 1990s, few research studies have addressed scientific software development from a Software Engineering (SE) perspective. The past few years have seen unparalleled growth in the R community, and it is time to push the boundaries of SE research and R programming forwards. </br></br>This talk will summarise the findings of SE research at the intersection with technical debt, when applied to R programming. We will discuss testing debt, documentation debt, self-admitted technical debt, and avoidance of CRAN checks. Additionally, it will propose a set of good practices derived from those findings aiming to act as a call-to-arms for both the R and RSE (Research SE) community to explore specific, interdisciplinary paths of research. "
 #-
   #id: 1055
   #title: "How can Collaborative-Coding help your research? by Dr Paula Martinez"
@@ -66,14 +66,14 @@
   ##service: true
   #hidden: true
   #description: "Let's face it, as researchers, we know that the best outcomes are produced when we collaborate with others. We can gain and share expertise, learn more, and challenge ourselves to improve. Then, why don't we apply the same guidelines of efficient collaboration to writing analysis code? Collaboration is a strategy in which multiple people work together to accomplish a particular goal; the best is that it can be applied to everything we do. Has the thought of 'cross fertilisation between industry and academia' crossed your mind? One of the ground rules of industry development teams is to 'not work alone'. In academia, we tend to work in silos or be solo drivers. In this talk, I will go through the benefits of collaborative coding and show examples of how it would help your research and give you a competitive advantage in the future. "
--
-  id: 1056
-  title: "A journey in genomics software: from consumer to developer by Dr Cam Hyde"
-  subtype: talk
-  speakers: [6]
-  #service: true
-  hidden: true
-  description: "My research Career started in the wet lab seven years ago, doing my Honors project. I was studying the TSH receptor gene in Atlantic salmon – PCRs, genetic cloning, sanger sequencing. With the time between runs I’d dash back to the laptop to complement my experimental work with some bioinformatics. In those days my attempt at sequence analysis was ham-fisted, awkward and tedious, with a lot of manual work that was entirely unnecessary. I was learning the hard way, like many students do. During my PhD I resolved to streamlining these tasks and began learning how to automate analyses with Python. This incredible programming language gradually exposed me to the world of software development. With the publication of my thesis I released a web database which serves as an interface for my research data, and others data like it. During my PhD, the time spend developing this software became a guilty pleasure, a clear indication that this was the path I should follow. Today I work on developing national platforms for bioinformatics, with most of my time spent on Galaxy Australia."
+#-
+  #id: 1056
+  #title: "A journey in genomics software: from consumer to developer by Dr Cam Hyde"
+  #subtype: talk
+  #speakers: [6]
+  ##service: true
+  #hidden: true
+  #description: "My research Career started in the wet lab seven years ago, doing my Honors project. I was studying the TSH receptor gene in Atlantic salmon – PCRs, genetic cloning, sanger sequencing. With the time between runs I’d dash back to the laptop to complement my experimental work with some bioinformatics. In those days my attempt at sequence analysis was ham-fisted, awkward and tedious, with a lot of manual work that was entirely unnecessary. I was learning the hard way, like many students do. During my PhD I resolved to streamlining these tasks and began learning how to automate analyses with Python. This incredible programming language gradually exposed me to the world of software development. With the publication of my thesis I released a web database which serves as an interface for my research data, and others data like it. During my PhD, the time spend developing this software became a guilty pleasure, a clear indication that this was the path I should follow. Today I work on developing national platforms for bioinformatics, with most of my time spent on Galaxy Australia."
 -
   id: 106
   title: "Afternoon tea"
