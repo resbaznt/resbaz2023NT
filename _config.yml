@@ -200,11 +200,11 @@ footerBlocks:
  -
   title: "Gold Sponsors"
   links:
-    - {link: "https://www.cdu.edu.au", text: "CDU", imageUrl: "../img/organizers/cdu.jpg"}
+    - {link: "https://www.cdu.edu.au", text: "", imageUrl: "../img/organizers/cdu.jpg"}
  -    
   title: "Silver Sponsor"
   links:
-   - {link: "https://www.intersect.org.au", text: "Intersect", imageUrl: "../img/organizers/intersect.jpg"}
+   - {link: "https://www.intersect.org.au", text: "", imageUrl: "../img/organizers/intersect.jpg"}
    #- {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
  -  
   title: "Contacts"
