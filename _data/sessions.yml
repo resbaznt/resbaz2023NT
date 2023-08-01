@@ -49,7 +49,14 @@
   subtype: talk
   speakers: [3]
   service: true
-  description: "An introduction to data cleaning, visualisation and reporting in R"
+  description: "This is an introductory workshop about R/R studio for those who have not used R before. We will use the online R studio environment on Posit Cloud and get familiar with the R studio interface, import a dataset and do some basic summary statistics and plotting while using an R script."
+-
+  id: 1054
+  title: "An introduction to data cleaning, visualisation and reporting in R"
+  subtype: talk
+  speakers: [3]
+  service: true
+  description: "This beginner’s workshop is all about data cleaning and visualisation using the R package tidyverse. After cleaning our data, we will create various plots for data exploration and present these in an interactive html or pdf report using R Markdown. "
 #-
   #id: 1054
   #title: "Technical Debt and Software Engineering for R Programming: Improving the Development of your Datascience Code by Dr Melina Vidoni (virtually hosted)"
