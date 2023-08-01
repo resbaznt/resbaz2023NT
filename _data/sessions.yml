@@ -46,41 +46,33 @@
 -
   id: 1053
   title: "An Introduction to R"
-  subtype: talk
+  subtype: workshop
   speakers: [3]
   #service: true
   description: "This is an introductory workshop about R/R studio for those who have not used R before. We will use the online R studio environment on Posit Cloud and get familiar with the R studio interface, import a dataset and do some basic summary statistics and plotting while using an R script."
 -
   id: 1054
   title: "An introduction to data cleaning, visualisation and reporting in R"
-  subtype: talk
+  subtype: workshop
   speakers: [3]
   #service: true
   description: "This beginner’s workshop is all about data cleaning and visualisation using the R package tidyverse. After cleaning our data, we will create various plots for data exploration and present these in an interactive html or pdf report using R Markdown. "
 -
   id: 1055
-  title: "Introducing the Gale Digital Scholar Lab: Explore Primary Sources Through a New Lens "
+  title: "Introducing the Gale Digital Scholar Lab: Explore Primary Sources Through a New Lens"
   subtype: talk
   speakers: [4]
   #service: true
-  hidden: true
+  #hidden: true
   description: "Gale Digital Scholar Lab, developed with participation from beta testers across a wide range of institutions and organisations, is designed to transform the way scholars and students access and analyse Gale primary source materials by offering solutions to some of the most common challenges facing researchers in the digital humanities today. The Gale Digital Scholar Lab was officially released in 2018 and has continued to grow in popularity with Academics and Institutions across the world. . By integrating an unmatched depth and breadth of digital primary source matter with the most popular DH tools, Gale Digital Scholar Lab provides a new lens to explore history and empowers researchers to generate world-altering conclusions and outcomes. Through advanced humanities computing tools that make natural language processing (NLP) for historical texts accessible, more efficient, and impactful, the footprint of digital humanities can be expanded to more classrooms around the globe. 
  Researching primary sources & text and data mining have become more intuitive and easier to access without having the prerequisite skills in digital humanities.  This presentation will provide an introductory overview of the Gale Digital Scholar Lab, exploring the tools and functionality recently added for a better user experience.  We will explore how Students/Academics/ Researchers, and Librarians can use the Gale Digital Scholar Lab to search through their institution's primary source holdings from Gale or upload their own content to build their content sets using articles from various historical newspapers, analyse this content using the TDM tools available in the Lab and finally export the visualisations from the Lab. "
-#-
-  #id: 1055
-  #title: "How can Collaborative-Coding help your research? by Dr Paula Martinez"
-  #subtype: talk
-  #speakers: [1]
-  ##service: true
-  #hidden: true
-  #description: "Let's face it, as researchers, we know that the best outcomes are produced when we collaborate with others. We can gain and share expertise, learn more, and challenge ourselves to improve. Then, why don't we apply the same guidelines of efficient collaboration to writing analysis code? Collaboration is a strategy in which multiple people work together to accomplish a particular goal; the best is that it can be applied to everything we do. Has the thought of 'cross fertilisation between industry and academia' crossed your mind? One of the ground rules of industry development teams is to 'not work alone'. In academia, we tend to work in silos or be solo drivers. In this talk, I will go through the benefits of collaborative coding and show examples of how it would help your research and give you a competitive advantage in the future. "
 -
   id: 1056
   title: "Systems for online knowledge sharing: putting data back in the hands of First Nations community"
   subtype: talk
   speakers: [6]
   #service: true
-  hidden: true
+  #hidden: true
   description: "Dr Kutay will explain why she has been setting up new sites with research students to handle Aboriginal knowledge sharing. The system Dr Kutay will be demonstrating is designed to be used by different people as their own site. It is not that easy to set up a new site, but when a new site is set up, users can add their own stories and share these. One or two demo sites will be shown as examples of how it is used and what can be done to improve the knowledge sharing back to community. "
 -
   id: 106
@@ -100,6 +92,6 @@
 #  id: 1001
 #  title: "Fundamentals of Reproducible Research"
 #  description: "On completion of this workshop, participants should be able to: <br>- identify ways to make their research better organised, more reproducible and transparent <br>- identify time-saving processes such as automation of common tasks <br>- safeguard themselves against fraud <br>- secure their data against loss or accidental disclosure <br>- identify best practices in reproducibility for current and future research projects <br><br>No prior knowledge or equipment/installs needed"
-#  subtype: workshop
+#  subtype: talk
 #  speakers: [18, 35]
 #  complexity: "Beginner"
