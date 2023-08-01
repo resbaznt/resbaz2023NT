@@ -6,10 +6,10 @@
 -
   group: "Silver Sponsors"
   elements: 
-     - {name: "", description: "GALE", link: "https://www.gale.com/intl", imageUrl: "Gale_Logo_stacked_rgb_orange_blue_small.png"}
-     - {name: "", description: "SAGE", link: "https://au.sagepub.com/en-gb/oce/home", imageUrl: "Blue Sage logo - big.png"}
-     - {name: "", description: "AAF", link: "https://aaf.edu.au/", imageUrl: "AAF logo_orange_dark text.png"}
-     - {name: "", description: "Inspired NT", link: "https://www.inspirednt.net/", imageUrl: "Inspired NT.png"}
+     - {name: "", description: "GALE", link: "https://www.gale.com/intl", imageUrl: "../img/organizers/Gale_Logo_stacked_rgb_orange_blue_small.png"}
+     - {name: "", description: "SAGE", link: "https://au.sagepub.com/en-gb/oce/home", imageUrl: "../img/organizers/Blue Sage logo - big.png"}
+     - {name: "", description: "AAF", link: "https://aaf.edu.au/", imageUrl: "../img/organizers/AAF logo_orange_dark text.png"}
+     - {name: "", description: "Inspired NT", link: "https://www.inspirednt.net/", imageUrl: "../img/organizers/Inspired NT.png"}
 -
   group: "Main organisers"
   elements: 
