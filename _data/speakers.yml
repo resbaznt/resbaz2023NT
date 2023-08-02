@@ -71,3 +71,26 @@ Cat Kutay's research is in the areas of Indigenous Knowledge management, includi
   rockstar: false
   ribbon:
     #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 7
+  name: "Rebecca"
+  surname: "Rogers"
+  title: "Charles Darwin University Tafe, The North Australia Centre for Autonomous Systems (NACAS) "
+  bio: "Rebecca is an experienced and passionate STEM educator, drone pilot and techno-ecologist. That is, she is interested in using emerging technology to solve complex ecological data problems that improve our understanding of wildlife, the environment and our lives. This includes uncrewed aerial vehicles (UAV/drones), GIS, GPS and satellite tracking devices, weather radar and more. She currently works a VET lecturer at CDU TAFE, training job-ready drone pilots and is a researcher at the North Australia Centre for Autonomous Systems. "
+  thumbnailUrl: "RebeccaRogers.jpg"
+  # set this rockstar to true for keynote speaker
+  rockstar: false
+  ribbon:
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+
+-
+  id: 8
+  name: "Melroy"
+  surname: "Almeida"
+  title: "Australian Access Federation"
+  bio: "Melroy works at the Australian Access Federation (AAF) and his main role is to lead the Australian ORCID Consortium. Melroy works closely with consortium members in helping them with their communication and implementation strategies and to realise benefits of their ORCID consortium membership.  He is a big fan of persistent identifiers and believes in their ability to enhance research and make it FAIR. Melroy also collaborates with other NCRIS providers to further persistent identifiers and build a community of like-minded practitioners."
+  thumbnailUrl: "MelroyAlmeida.jpg"
+  # set this rockstar to true for keynote speaker
+  rockstar: false
+  ribbon:
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
