@@ -99,7 +99,7 @@
   id: 1057
   title: "ORCID for Researchers - Connecting with your research contributions "
   subtype: workshop
-  speakers: [7]
+  speakers: [8]
   #service: true
   #hidden: true
   description: "Do you have trouble distinguishing yourself from your peers who have the same name or initials as yourself? Would you like to spend more time doing research and less time managing it? ORCID which stands for Open Researcher and Contributor ID, is a free unique persistent identifier for individuals to use as they engage in research, scholarship, and innovation activities. In this session, Melroy Almeida from the Australian Access Federation will talk about ORCID in context of the research you are doing at your institution. The session will help you understand how to get an ORCID ID, to distinguish yourself from your peers and maximise the benefits you can get from your ORCID record. "
@@ -108,7 +108,7 @@
   id: 1058
   title: "Persistent Identifiers (PIDs) for research"
   subtype: workshop
-  speakers: [7]
+  speakers: [8]
   #service: true
   #hidden: true
   description: "Have you wondered what a DOI is, why your journal paper have a DOI and why you are asked to get an ORCID ID? DOI’s and ORCID IDs are called persistent identifiers or PIDs. They have the ability to enhance research and make it F.A.I.R (Findable Accessible, Reusable and Interoperable). If you would like to know more about PIDs and how they can be used to help you with your research, this session is for you."
