@@ -200,11 +200,15 @@ footerBlocks:
  -
   title: "Gold Sponsors"
   links:
-    - {link: "https://www.cdu.edu.au", text: "", imageUrl: "../img/organizers/cdu.jpg"}
+    - {link: "https://www.cdu.edu.au", text: "Charles Darwin University", imageUrl: "../img/organizers/cdu.jpg"}
+    - {link: "https://www.intersect.org.au/", text: "Intersect", imageUrl: "../img/organizers/cdu.jpg"}
  -    
   title: "Silver Sponsor"
   links:
-   - {link: "https://www.intersect.org.au", text: "", imageUrl: "../img/organizers/intersect.jpg"}
+   - {link: "https://www.gale.com/intl", text: "Gale", imageUrl: "../img/organizers/Gale_Logo_stacked_rgb_orange_blue_small.png"}
+   - {link: "https://au.sagepub.com/en-gb/oce/home", text: "Sage", imageUrl: "../img/organizers/Blue Sage logo - big.png"}
+   - {link: "https://aaf.edu.au/", text: "Australian Access Federation", imageUrl: "../img/organizers/AAF logo_orange_dark text.png"}
+   - {link: "https://www.inspirednt.net/", text: "Inspired NT", imageUrl: "../img/organizers/Inspired NT.png"}
    #- {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
  -  
   title: "Contacts"
