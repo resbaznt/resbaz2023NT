@@ -47,21 +47,21 @@
   id: 4
   name: "Fiona"
   surname: "Steele"
-  title: "Charles Darwin University"
+  title: "Manager HDR and Ethics, Charles Darwin University"
   thumbnailUrl: "FionaSteele.jpg"
   team: true
   ribbon: 
-    - {abbr: "", title: ""}
+    - {abbr: "", title: "Manager HDR and Ethics"}
   social: 
     - {name: "", link: ""}
 - 
   id: 5
   name: "Nirmala"
   surname: "Sunil"
-  title: "Charles Darwin University"
+  title: "Research Skills and Communication officer, Charles Darwin University"
   thumbnailUrl: 
   team: true
   ribbon: 
-    - {abbr: "", title: ""}
+    - {abbr: "", title: "Research Skills and Communication officer"}
   social: 
     - {name: "", link: ""}
