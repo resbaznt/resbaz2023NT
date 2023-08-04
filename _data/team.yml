@@ -3,7 +3,7 @@
   name: "Joanna"
   surname: "Dziedzic"
   title: "Research Librarian, Charles Darwin University"
-  thumbnailUrl: JoannaDziedzic.jpg
+  thumbnailUrl: "JoannaDziedzic.jpg"
   team: true
   ribbon: 
     - {abbr: "", title: "Research Librarian"}
@@ -25,7 +25,7 @@
   name: "Iftikhar"
   surname: "Hayat"
   title: "Business Excellence Associate Director, Charles Darwin University"
-  thumbnailUrl: Iftikharhayat.jpg
+  thumbnailUrl: "Iftikharhayat.jpg"
   team: true
   ribbon: 
     - {abbr: "", title: "Business Excellence Associate Director"}
@@ -36,7 +36,7 @@
   name: "Bernadette"
   surname: "Royal"
   title: "Manager Academic and Research Services, Charles Darwin University"
-  thumbnailUrl: BernadetteRoyal.jpg
+  thumbnailUrl: "BernadetteRoyal.jpg"
   team: true
   ribbon: 
     - {abbr: "", title: "Manager Academic and Research Services"}
@@ -48,10 +48,10 @@
   name: "Fiona"
   surname: "Steele"
   title: "Charles Darwin University"
-  thumbnailUrl: FionaSteele.jpg
+  thumbnailUrl: "FionaSteele.jpg"
   team: true
   ribbon: 
-    - {abbr: "", title: "System Analyst"}
+    - {abbr: "", title: ""}
   social: 
     - {name: "", link: ""}
 - 
