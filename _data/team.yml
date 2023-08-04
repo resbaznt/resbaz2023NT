@@ -6,7 +6,7 @@
   thumbnailUrl: "JoannaDziedzic.jpg"
   team: true
   ribbon: 
-    - {abbr: "", title: "Research Librarian"}
+    - {abbr: "", title: "Research Data Librarian"}
   social: 
     - {name: "", link: ""}
 - 
@@ -67,12 +67,12 @@
     - {name: "", link: ""}
 - 
   id: 6
-  name: "Ujjal"
-  surname: "Kandel"
-  title: "System Analyst, Charles Darwin University"
-  thumbnailUrl: 
+  name: "Joanna"
+  surname: "Dziedzic"
+  title: "Research Librarian, Charles Darwin University"
+  thumbnailUrl: "JoannaDziedzic.jpg"
   subTeam: true
   ribbon: 
-    - {abbr: "", title: "System Analyst"}
+    - {abbr: "", title: "Research Data Librarian"}
   social: 
     - {name: "", link: ""}
