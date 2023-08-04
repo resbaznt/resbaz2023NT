@@ -65,3 +65,14 @@
     - {abbr: "", title: "Research Skills and Communication officer"}
   social: 
     - {name: "", link: ""}
+- 
+  id: 6
+  name: "Ujjal"
+  surname: "Kandel"
+  title: "System Analyst, Charles Darwin University"
+  thumbnailUrl: 
+  team: false
+  ribbon: 
+    - {abbr: "", title: "System Analyst"}
+  social: 
+    - {name: "", link: ""}
