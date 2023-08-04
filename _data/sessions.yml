@@ -112,3 +112,12 @@
   #service: true
   #hidden: true
   description: "Have you wondered what a DOI is, why your journal paper have a DOI and why you are asked to get an ORCID ID? DOI’s and ORCID IDs are called persistent identifiers or PIDs. They have the ability to enhance research and make it F.A.I.R (Findable Accessible, Reusable and Interoperable). If you would like to know more about PIDs and how they can be used to help you with your research, this session is for you."
+
+-
+  id: 1059
+  title: "Do I have Imposter Syndrome?"
+  subtype: workshop
+  speakers: [9]
+  #service: true
+  #hidden: true
+  description: "You work hard. You have qualifications and experience behind you. You may even have won some awards. People respect you. So why do we often hear a little voice telling us that we’re not good enough, that one day we will be found out for the fraud we are, and wondering why you were even given this job in the first place? Imposter syndrome is a psychological occurrence in which people doubt their skills, talents and accomplishments, and it is a lot more common than you think. In this workshop, we will unpack the different types of imposter syndrome and explore strategies to ensure it does not hold you back in your career. "
