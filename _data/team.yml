@@ -71,7 +71,7 @@
   surname: "Kandel"
   title: "System Analyst, Charles Darwin University"
   thumbnailUrl: 
-  team: false
+  subTeam: true
   ribbon: 
     - {abbr: "", title: "System Analyst"}
   social: 
