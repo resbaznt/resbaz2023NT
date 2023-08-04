@@ -1,5 +1,16 @@
 - 
   id: 0
+  name: "Joanna"
+  surname: "Dziedzic"
+  title: "Research Librarian, Charles Darwin University"
+  thumbnailUrl: JoannaDziedzic.jpg
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Research Librarian"}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 1
   name: "Jerome"
   surname: "Apresto"
   title: "Library System Analyst, Charles Darwin University"
@@ -10,25 +21,47 @@
   social: 
     - {name: "", link: ""}
 - 
-  id: 1
-  name: "Joanna"
-  surname: "Dziedzic"
-  title: "Research Librarian, Charles Darwin University"
-  thumbnailUrl: 
-  team: true
-  ribbon: 
-    - {abbr: "", title: "Research Librarian"}
-  social: 
-    - {name: "", link: ""}
-
-- 
-  id: 1
+  id: 2
   name: "Iftikhar"
   surname: "Hayat"
   title: "Business Excellence Associate Director, Charles Darwin University"
-  thumbnailUrl: 
+  thumbnailUrl: Iftikharhayat.jpg
   team: true
   ribbon: 
     - {abbr: "", title: "Business Excellence Associate Director"}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 3
+  name: "Bernadette"
+  surname: "Royal"
+  title: "Manager Academic and Research Services, Charles Darwin University"
+  thumbnailUrl: BernadetteRoyal.jpg
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Manager Academic and Research Services"}
+  social: 
+    - {name: "", link: ""}
+    
+- 
+  id: 4
+  name: "Fiona"
+  surname: "Steele"
+  title: "Charles Darwin University"
+  thumbnailUrl: FionaSteele.jpg
+  team: true
+  ribbon: 
+    - {abbr: "", title: "System Analyst"}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 5
+  name: "Nirmala"
+  surname: "Sunil"
+  title: "Charles Darwin University"
+  thumbnailUrl: 
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
   social: 
     - {name: "", link: ""}
