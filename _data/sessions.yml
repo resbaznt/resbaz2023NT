@@ -131,3 +131,20 @@
   #service: true
   #hidden: true
   description: "You work hard. You have qualifications and experience behind you. You may even have won some awards. People respect you. So why do we often hear a little voice telling us that we’re not good enough, that one day we will be found out for the fraud we are, and wondering why you were even given this job in the first place? Imposter syndrome is a psychological occurrence in which people doubt their skills, talents and accomplishments, and it is a lot more common than you think. In this workshop, we will unpack the different types of imposter syndrome and explore strategies to ensure it does not hold you back in your career. "
+
+-
+  id: 1060
+  title: "Being 'bad at technology' will make you a better researcher"
+  subtype: workshop
+  speakers: [7]
+  #service: true
+  #hidden: true
+  description: ""
+-
+  id: 1061
+  title: "Drone Data Collection"
+  subtype: workshop
+  speakers: [7]
+  #service: true
+  #hidden: true
+  description: ""
