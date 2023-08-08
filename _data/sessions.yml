@@ -8,7 +8,6 @@
   title: "Morning tea"
   service: true
   hidden: true
-  description: "Join us downstairs in N53 Minus 1 (ground floor)"
 -
   id: 103
   title: "Lunch"
@@ -17,16 +16,33 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 104
-  title: "Lunch and stalls"
+  title: "Lunch"
   service: true
   hidden: true
-  description: "Join us downstairs in N53 Minus 1 (ground floor) to talk with speakers and attendees, and visit our wonderful stalls!"
 -
   id: 105
   title: "Speakers of the day"
   service: true
   hidden: true
   description: "Join us in N02 Cinema (across the road from the main food hall) "
+-
+  id: 106
+  title: "Afternoon tea"
+  service: true
+  hidden: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 107
+  title: "Acknowledgement of Country / Welcome to ResBazNT! It Begins!"
+  service: true
+  hidden: true
+  description: "Key Note Speaker - Tara Brabazon"
+-
+  id: 108
+  title: "Social catch-up and Networking at Waterfront Pub"
+  service: true
+  hidden: true
+  
 #-
   #id: 1051
   #title: "The Topography of Searching by Amy Walduck"
@@ -74,12 +90,6 @@
   #service: true
   #hidden: true
   description: "Dr Kutay will explain why she has been setting up new sites with research students to handle Aboriginal knowledge sharing. The system Dr Kutay will be demonstrating is designed to be used by different people as their own site. It is not that easy to set up a new site, but when a new site is set up, users can add their own stories and share these. One or two demo sites will be shown as examples of how it is used and what can be done to improve the knowledge sharing back to community. "
--
-  id: 106
-  title: "Afternoon tea"
-  service: true
-  hidden: true
-  description: "The best time to talk with speakers and attendees"
 -
   id: 1000
   title: ""
