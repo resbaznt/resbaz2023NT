@@ -65,7 +65,7 @@ eventDate: "October 25-26 2023"
 
 
 # About Block
-aboutTitle: "What is ResBaz"
+aboutTitle: "What is ResBaz?"
 aboutSubtitle: "International Event"
 aboutText: "<p><b>ResBaz is an international event with a nationwide Australian profile!</b></p>
 
@@ -132,7 +132,7 @@ mapMobileCenterCoordinates: "-12.467887678365145, 130.84538544678253"
 tweetsFeedImage: "PurpleF_ResbazQld_NathCampus.jpg"
 tweetsFeedTitle: "What's the latest?"
 twitterHashTag: "ResBazNT"
-twitterFeed: "https://twitter.com/ResBazNT"
+twitterFeed: "https://twitter.com/search?q=%23ResBazNT"
 
 # Partners Block
 # organizersTitle: "Organisers"
