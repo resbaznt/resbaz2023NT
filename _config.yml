@@ -31,13 +31,13 @@ organizerLogo: "../img/organizers/cdu.jpg"
 organizerLink: "https://www.cdu.edu.au/"
 
 # Head
-metaKeywords: "event, resbaz, research, bazaar, brisbane, queensland, digital, skills, upskilling, hdr, ecr, eresearch, resbazqld, resbazbris"
-twitterAccount: "@ResBazQld"
+metaKeywords: "event, resbaz, research, bazaar, nt, northern, territory, digital, skills, upskilling, hdr, ecr, eresearch, resbaznt, resbazbris"
+twitterAccount: "@ResBazNT"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
 # Documents
-c4pUrl: "mailto:a.miotto@griffith.edu.au"
-c4sponsorsUrl: "https://www.qcif.edu.au"
+c4pUrl: "mailto:joanna.dziedzic@cdu.edu.au"
+c4sponsorsUrl: "https://www.cdu.edu.au"
 
 
 # Navigation
@@ -188,8 +188,8 @@ twitterFeed: "https://twitter.com/search?q=%23ResBazNT"
 #   soldOutText: "Sold Out"
 
 # Footer
-socialLinks:
- - {link: "https://twitter.com/search?q=%23ResBazNT", text:"#ResBazNT"}
+#socialLinks:
+# - {link: "https://twitter.com/search?q=%23ResBazNT", text:"#ResBazNT"}
 # - {link: "https://www.qcif.edu.au/", icon: "site"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", icon: "mail"}
 footerBlocks:
