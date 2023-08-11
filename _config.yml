@@ -197,6 +197,7 @@ footerBlocks:
   title: "Links"
   links:
    #- {link: "https://www.flickr.com/photos/bystandr/", text: "All site background images copyright Dr Nick"}
+   - {link: "https://twitter.com/search?q=%23ResBazNT", text:"#ResBazNT"}
  -
   title: "Gold Sponsors"
   links:
