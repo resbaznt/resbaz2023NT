@@ -76,3 +76,14 @@
     - {abbr: "", title: "Research Data Librarian"}
   social: 
     - {name: "", link: ""}
+- 
+  id: 7
+  name: "Steve"
+  surname: "Rogers"
+  title: "Deputy Vice-Chancellor, Research and Innovation, Charles Darwin University"
+  thumbnailUrl: "DrSteveRogers.jpg"
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Deputy Vice-Chancellor, Research and Innovation"}
+  social: 
+    - {name: "", link: ""}
