@@ -87,3 +87,14 @@
     - {abbr: "", title: "Deputy Vice-Chancellor, Research and Innovation"}
   social: 
     - {name: "", link: ""}
+    
+  id: 8
+  name: "Ingrid"
+  surname: "Freshwater"
+  title: "Academic and Research Librarian, Charles Darwin University"
+  thumbnailUrl: 
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Academic and Research Librarian"}
+  social: 
+    - {name: "", link: ""}
