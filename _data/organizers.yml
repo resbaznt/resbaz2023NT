@@ -3,6 +3,7 @@
   elements: 
     - {name: "", description: "Charles Darwin University", link: "https://www.cdu.edu.au", imageUrl: "../img/organizers/cdu.jpg"}
     - {name: "", description: "Intersect", link: "https://www.intersect.org.au", imageUrl: "../img/organizers/intersect.jpg"}
+    - {name: "", description: "ARDC", link: "https://www.intersect.org.au/", imageUrl: "../img/organizers/ARDC_logo_RGB_trans.png"}
 -
   group: "Silver Sponsors"
   elements: 
