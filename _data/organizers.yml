@@ -11,6 +11,7 @@
      - {name: "", description: "SAGE", link: "https://au.sagepub.com/en-gb/oce/home", imageUrl: "../img/organizers/Blue Sage logo - big.png"}
      - {name: "", description: "AAF", link: "https://aaf.edu.au/", imageUrl: "../img/organizers/AAF logo_orange_dark text.png"}
      - {name: "", description: "Inspired NT", link: "https://www.inspirednt.net/", imageUrl: "../img/organizers/Inspired NT.png"}
+     - {name: "", description: "NTG", link: "https://www.ntg.gov.au/", imageUrl: "../img/organizers/NTG1.jpg"}
 -
   group: "Main organisers"
   elements: 
