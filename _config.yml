@@ -212,6 +212,7 @@ footerBlocks:
    - {link: "https://au.sagepub.com/en-gb/oce/home", text: "Sage", imageUrl: "../img/organizers/Blue Sage logo - big.png"}
    - {link: "https://aaf.edu.au/", text: "Australian Access Federation", imageUrl: "../img/organizers/AAF logo_orange_dark text.png"}
    - {link: "https://www.inspirednt.net/", text: "Inspired NT", imageUrl: "../img/organizers/Inspired NT.png"}
+   - {link: "https://www.nt.gov.au/", text: "Northern Territory Government", imageUrl: "../img/organizers/NTG1.jpg"}
    #- {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
  -  
   title: "Contacts"
