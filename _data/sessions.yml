@@ -148,3 +148,11 @@
   #service: true
   #hidden: true
   description: ""
+-
+  id: 1062
+  title: "Introduction to Phyton"
+  subtype: workshop
+  speakers: [7]
+  #service: true
+  #hidden: true
+  description: ""
