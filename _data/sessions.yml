@@ -139,7 +139,7 @@
   speakers: [7]
   #service: true
   #hidden: true
-  description: ""
+  description: "A jack of all trades is a master of none, but oftentimes better than a master of one. As a researcher you are expected to be a master in your field. For some reason, this need for mastery often bleeds into other aspects of our careers. We often feel that if we are not an expert in a particular methodology or approach than it is not ours to use or try. But when it comes to technology, if you don’t allow yourself to be ‘bad at it’, what opportunities or ideas could you be missing out on? Join me in a talk all about how embracing new technology can make you a more creative, collaborative, and successful researcher. "
 -
   id: 1061
   title: "Drone Data Collection"
@@ -147,7 +147,7 @@
   speakers: [7]
   #service: true
   #hidden: true
-  description: ""
+  description: "Drones are one of those buzzwords for remote sensing data collection. As they gain popularity, many researchers are trying to incorporate them into their research projects and quickly find they may not be the magic bullet they were hoping for. In this session, I will talk about some of the amazing data opportunities there are with drone data collection. I will also discuss some of the operational and regulatory challenges you may need to overcome if you want to take advantage of this versatile data collection tool. "
 -
   id: 1062
   title: "Introduction to Python"
