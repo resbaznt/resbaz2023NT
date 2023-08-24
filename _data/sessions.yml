@@ -156,3 +156,11 @@
   #service: true
   #hidden: true
   description: ""
+-
+  id: 1063
+  title: "QGIS"
+  subtype: workshop
+  speakers: 
+  #service: true
+  #hidden: true
+  description: ""
