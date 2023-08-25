@@ -47,13 +47,14 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
+ - {link: "../img/other/DraftProgram.pdf", text: "Draft Program"}
  - {permalink: "/transport/", text: "Getting here"}
  - {permalink: "/partners/", text: "Partners & Sponsors"}
  - {permalink: "/registration/", text: "Register"}
 # - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
  - {permalink: "/cod/", text: "Code of Conduct"}
  - {permalink: "/team/", text: "Team"}
- - {link: "../img/organizers/NTG1.jpg", text: "..."}
+ 
 #bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
 #rightNavigationButtons:
