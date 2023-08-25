@@ -12,19 +12,19 @@
     #- {abbr: "RSE AUNZ", title: "Association of Research Software Engineers in Australia and New Zealand", url: "https://rse-aunz.github.io/"}
     #- {abbr: "ReSA", title: "Research Software Alliance", url: "https://www.researchsoft.org/"}
     #- {abbr: "VRS", title: "Visible Research Software Interest Group", url: "https://sites.google.com/ardc.edu.au/visible-research-software"}
--
-  id: 2
-  name: "Benjamin"
-  surname: "Tan"
-  title: "Professor, Charles Darwin University"
-  bio: "Professor Benjamin Tan is the Head of School (Nursing) in the Faculty of Health at Charles Darwin University (CDU), providing leadership in capacity building in learning and teaching, scholarship, and research and research training in the school spanning six locations across Australia. He is an Adjunct Professor at The Hong Kong Polytechnic University and the Southwest Medical University Hospital. Benjamin currently leads the Charles Darwin Centre for Evidence-Based Practice as the Foundation Co-Director and the Mental Health and Supportive Care Research Group as the Foundation Head at CDU Faculty of Health.
-Benjamin’s interdisciplinary programs of research focus on empirical development and the evaluation of evidence-based supportive care interventions for cancer symptom management. He and his interdisciplinary research team have developed and sustained intensive linkages with research collaborators in Australia, HKSAR, Singapore, the UK, and China Mainland, which have so far resulted in over 120 high-quality publications in peer-reviewed journals and conference presentations, as well as more than 28 funded projects with a total award exceeding AUD$2.9 million. His research has been adopted in numerous international and national practice guidelines, including those developed by the European Society for Medical Oncology, the American College of Chest Physicians, Cancer Care Ontario, the UK National Institute for Health and Care Excellence, the US Department of Veterans Affairs/Department of Defense, China Anti-Cancer Association, and the US Council of Colleges of Acupuncture and Oriental Medicine.
-"
-  thumbnailUrl: "btan.jpg"
-  # set this rockstar to true for keynote speaker
-  rockstar: false
-  ribbon:
-    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+#-
+#  id: 2
+#  name: "Benjamin"
+#  surname: "Tan"
+#  title: "Professor, Charles Darwin University"
+#  bio: "Professor Benjamin Tan is the Head of School (Nursing) in the Faculty of Health at Charles Darwin University (CDU), providing leadership in capacity building in learning and teaching, scholarship, and research and research training in the school spanning six locations across Australia. He is an Adjunct Professor at The Hong Kong Polytechnic University and the Southwest Medical University Hospital. Benjamin currently leads the Charles Darwin Centre for Evidence-Based Practice as the Foundation Co-Director and the Mental Health and Supportive Care Research Group as the Foundation Head at CDU Faculty of Health.
+#Benjamin’s interdisciplinary programs of research focus on empirical development and the evaluation of evidence-based supportive care interventions for cancer symptom management. He and his interdisciplinary research team have developed and sustained intensive linkages with research collaborators in Australia, HKSAR, Singapore, the UK, and China Mainland, which have so far resulted in over 120 high-quality publications in peer-reviewed journals and conference presentations, as well as more than 28 funded projects with a total award exceeding AUD$2.9 million. His research has been adopted in numerous international and national practice guidelines, including those developed by the European Society for Medical Oncology, the American College of Chest Physicians, Cancer Care Ontario, the UK National Institute for Health and Care Excellence, the US Department of Veterans Affairs/Department of Defense, China Anti-Cancer Association, and the US Council of Colleges of Acupuncture and Oriental Medicine.
+#"
+#  thumbnailUrl: "btan.jpg"
+#  # set this rockstar to true for keynote speaker
+#  rockstar: false
+#  ribbon:
+#    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
 -
   id: 3
   name: "Mirjam"
