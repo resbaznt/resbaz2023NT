@@ -150,17 +150,29 @@
   description: "Drones are one of those buzzwords for remote sensing data collection. As they gain popularity, many researchers are trying to incorporate them into their research projects and quickly find they may not be the magic bullet they were hoping for. In this session, I will talk about some of the amazing data opportunities there are with drone data collection. I will also discuss some of the operational and regulatory challenges you may need to overcome if you want to take advantage of this versatile data collection tool. "
 -
   id: 1062
-  title: "Introduction to Python"
+  title: "Language Showdown: Which programming language should I learn?"
   subtype: workshop
   speakers: [1]
   #service: true
   #hidden: true
-  description: ""
+  description: "Which language should you choose to learn? This webinar will discuss the pros and cons of four languages that are widely used in academia, and will provide guidance on selecting the right one.
+Programming is becoming more and more popular, with many researchers using programming to perform data cleaning, data manipulation, data analytics, as well as creating publication quality plots. Programming can be really beneficial for automating processes and workflows. In this webinar, we are exploring four of the most popular programming languages that are widely used in academia, namely Python, R, MATLAB, and Julia."
 -
   id: 1063
+  title: "Learn to Program: Python"
+  subtype: workshop
+  speakers: [1]
+  #service: true
+  #hidden: true
+  description: "Python has deservedly become a popular language for scientific computing. It has all the friendly features and conveniences you’d expect of a modern programming language, and also a rich set of libraries for working with data.
+We teach using Jupyter notebooks, which allow program code, results, visualisations and documentation to be blended seamlessly. Perfect for sharing insights with others while producing reproducible research.
+Join us for this live coding workshop where we write programs that produce results, using the researcher-focused training modules from the highly regarded Software Carpentry Foundation."
+-
+  id: 1064
   title: "QGIS"
   subtype: workshop
   speakers: 
   #service: true
   #hidden: true
   description: ""
+  
