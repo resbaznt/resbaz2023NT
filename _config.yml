@@ -47,7 +47,7 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
- - {link: "/resbaz2023NT/img/organizers/DraftProgram.pdf", text: "Draft Program"}
+ - {link: "/resbaz2023NT/img/organizers/DraftProgram.pdf", text: "Program"}
  - {permalink: "/transport/", text: "Getting here"}
  - {permalink: "/partners/", text: "Partners & Sponsors"}
  - {permalink: "/registration/", text: "Register"}
