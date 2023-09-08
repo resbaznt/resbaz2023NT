@@ -10,7 +10,7 @@
     - {
       startTime: "08:00",
       endTime: "08:25",
-      sessionIds: [0,101,0],
+      sessionIds: [101],
       cols: [3]
     }
     - {
