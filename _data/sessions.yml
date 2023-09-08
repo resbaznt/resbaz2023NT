@@ -181,7 +181,7 @@ Join us for this live coding workshop where we write programs that produce resul
   subtype: workshop
   speakers: 
   #service: true
-  #hidden: true
+  hidden: true
   description: ""
 -
   id: 1065
