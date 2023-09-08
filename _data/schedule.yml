@@ -2,9 +2,9 @@
   date: "2023-10-25"
   dateReadable: "Wednesday 25th of October 2023"
   tracks: 
-    - {title: "Level3 Multi-Purpose 3.20", color: "#2E8B57"}
-    - {title: "Level3 Multi-Purpose 3.19", color: "#e91e63"}
-    - {title: "Waterfront Level 5 Auditorium 5.04", color: "#48D1CC"}
+    - {title: "Level 3 Multi-Purpose 3.20", color: "#2E8B57"}
+    - {title: "Level 3 Multi-Purpose 3.19", color: "#e91e63"}
+    - {title: "Waterfront Level 5 Auditorium 5.03", color: "#48D1CC"}
 
   timeslots:
     - {
@@ -22,7 +22,7 @@
     - {
       startTime: "09:00",
       endTime: "09:30",
-      sessionIds: [1053,1063,1061],
+      sessionIds: [1053,1063,1065],
       rows:       [3,3,1]
     }
     - {
@@ -36,7 +36,35 @@
       sessionIds: [1053],
       rows:       [3]
     }
-    
+    - {
+      startTime: "10:30",
+      endTime: "11:00",
+      sessionIds: [102],
+      cols: [3]      
+    }
+    - {
+      startTime: "11:00",
+      endTime: "11:30",
+      sessionIds: [1053,1063,1061],
+      rows:       [3,3,1]
+    }
+    - {
+      startTime: "11:30",
+      endTime: "12:00",
+      sessionIds: []
+    }
+    - {
+      startTime: "12:00",
+      endTime: "12:30",
+      sessionIds: [1056],
+      rows:       [1]
+    }
+    - {
+      startTime: "12:30",
+      endTime: "13:30",
+      sessionIds: [103],
+      cols: [3]      
+    }
 -
   date: "2023-10-26"
   dateReadable: "Thursday 26th of October 2023"
