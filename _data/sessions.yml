@@ -191,4 +191,11 @@ Join us for this live coding workshop where we write programs that produce resul
   #service: true
   #hidden: true
   description: "This presentation will focus on Open Access (OA) publishing, delving into its core concepts, benefits, and complexities. The presentation illuminates OA's essence – unrestricted online access to scholarly content. It discusses OA's advantages, including heightened research visibility and impact, while acknowledging the intricacies researchers face regarding OA journals. This presentation equips scholars to engage meaningfully with OA's transformative publishing options, including information on Read and Publishing agreements and levels of OA for different journals."
-  
+-
+  id: 1067
+  title: "Digital Tools for STEM Communication"
+  subtype: workshop
+  speakers: []
+  service: true
+  hidden: true
+  description: ""
