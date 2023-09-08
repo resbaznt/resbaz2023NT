@@ -86,6 +86,34 @@
       sessionIds: [106],
       cols: [3]      
     }
+    - {
+      startTime: "15:30",
+      endTime: "16:00",
+      sessionIds: [1064,1059,1068],
+      rows:       [3,2,1]      
+    }
+    - {
+      startTime: "16:00",
+      endTime: "16:30",
+      sessionIds: [1069]
+    }
+    - {
+      startTime: "16:30",
+      endTime: "17:00",
+      sessionIds: [1066,1070]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "17:30",
+      sessionIds: [108],
+      rows: [2],
+      cols: [3]
+    }
+    - {
+      startTime: "17:30",
+      endTime: "18:00",
+      sessionIds: []
+    }
 -
   date: "2023-10-26"
   dateReadable: "Thursday 26th of October 2023"
