@@ -176,6 +176,14 @@ Join us for this live coding workshop where we write programs that produce resul
   #hidden: true
   description: ""
 -
+  id: 1066
+  title: "TBC"
+  subtype: workshop
+  speakers: 
+  #service: true
+  #hidden: true
+  description: ""
+-
   id: 1065
   title: "Open Sesame: A Researcher's Guide to Open Access Publishing"
   subtype: workshop
