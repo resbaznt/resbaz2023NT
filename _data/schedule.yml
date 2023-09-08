@@ -22,13 +22,13 @@
     - {
       startTime: "09:00",
       endTime: "09:30",
-      sessionIds: [1053,1063,1061],
+      sessionIds: [1053,1063],
       rows:       [1,2,3]
     }
     - {
       startTime: "09:30",
       endTime: "10:00",
-      sessionIds: [1053,1063],
+      sessionIds: [],
       rows:       [1,2,3]
     }
     - {
@@ -37,31 +37,7 @@
       sessionIds: [1061],
       rows:       [1]
     }
-    - {
-      startTime: "12:30",
-      endTime: "13:30",
-      sessionIds: [104]
-    }
-    - {
-      startTime: "13:30",
-      endTime: "15:00",
-      sessionIds: [106]
-    }
-    - {
-      startTime: "15:00",
-      endTime: "15:30",
-      sessionIds: [106]
-    }
-    - {
-      startTime: "15:30",
-      endTime: "17:00",
-      sessionIds: [1034,1059,1057]
-    }
-    - {
-      startTime: "17:00",
-      endTime: "18:00",
-      sessionIds: [1034]
-    }
+    
 -
   date: "2023-10-26"
   dateReadable: "Thursday 26th of October 2023"
