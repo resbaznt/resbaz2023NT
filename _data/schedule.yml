@@ -21,19 +21,21 @@
     }
     - {
       startTime: "09:00",
-      endTime: "10:30",
+      endTime: "09:30",
       sessionIds: [1053,1063,1061],
       rows:       [1,2,3]
     }
     - {
-      startTime: "10:30",
-      endTime: "11:00",
-      sessionIds: [102]
+      startTime: "09:30",
+      endTime: "10:00",
+      sessionIds: [1053,1063],
+      rows:       [1,2,3]
     }
     - {
-      startTime: "11:00",
-      endTime: "12:30",
-      sessionIds: [104]
+      startTime: "10:00",
+      endTime: "10:30",
+      sessionIds: [1061],
+      rows:       [1]
     }
     - {
       startTime: "12:30",
