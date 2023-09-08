@@ -199,3 +199,27 @@ Join us for this live coding workshop where we write programs that produce resul
   service: true
   hidden: true
   description: ""
+-
+  id: 1068
+  title: "What is the best digital tool for my research (TBC)"
+  subtype: workshop
+  speakers: []
+  service: true
+  hidden: true
+  description: ""
+-
+  id: 1069
+  title: "ORCID for Researchers - Connecting with your research contributions"
+  subtype: workshop
+  speakers: []
+  service: true
+  hidden: true
+  description: ""
+-
+  id: 1070
+  title: "Digital Tools in my Research: HDR 3-min presentation challenge"
+  subtype: workshop
+  speakers: []
+  service: true
+  hidden: true
+  description: ""
