@@ -1,0 +1,99 @@
+<!-- Begin Schedule Section -->
+<section id="schedule" class="schedule">
+    <div class="content-wrapper">
+
+        <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
+            <div class="col-lg-8 col-md-10 col-xs-12">
+
+            <p class="registration-blurb"><strong><a href="https://www.eventbrite.com.au/e/resbaz-sydney-2023-tickets-707597462057">Follow this link to register for ResBaz Sydney 2023!</a></strong></p>
+
+
+            </div>
+        </div>
+
+
+        {% for day in site.data.schedule %}
+        <table class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+            <tr>
+                <td colspan="6">
+                    <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
+                </td>
+            </tr>
+            <tr class="timeslot track-header stick-header">
+                <td class="track-header-slot">Day {{ forloop.index }}</td>
+                {% for track in day.tracks %}
+                <td class="track-header-slot hidden-xs">
+                    <h5 class="track-header-title">{{ track.title }}</h5>
+                </td>
+                {% endfor %}
+            </tr>
+            {% for timeslot in day.timeslots %}
+            <tr class="timeslot" itemtype="http://schema.org/subEvent">
+                <td class="timeslot-label">
+                    <time class="start-time" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
+                        {% assign startTime = timeslot.startTime | split: ":" %}
+                        {{ startTime[0] }}<span>{{ startTime[1] }}</span>
+                    </time>
+                    <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
+                        {% assign endTime = timeslot.endTime | split: ":" %}
+                        {{ endTime[0] }}<span>{{ endTime[1] }}</span>
+                    </time>
+                </td>
+
+                {% for slot in timeslot.sessionIds %}
+                    {% assign slotIndex = forloop.index0 %}
+                    {% if timeslot.cols %}
+                        {% assign cs = timeslot.cols[slotIndex] %}
+                    {% else %}
+                        {% assign cs = 1 %}
+                    {% endif %}
+                    {% if timeslot.rows %}
+                        {% assign rs = timeslot.rows[slotIndex] %}
+                    {% else %}
+                        {% assign rs = 1 %}
+                    {% endif %}
+                    {% for session in site.data.sessions %}
+                        {% if slot == session.id and session.service == null %}
+                            <td class="slot session-{{session.subtype}}" colspan="{{ cs }}" rowspan="{{ rs }}" id="session-{{ session.id }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                    <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                        <ul class="slot-speakers">
+                                            {% for session_speaker in session.speakers %}
+                                                {% for speaker in site.data.speakers %}
+                                                    {% if session_speaker == speaker.id %}
+                                                    <li itemprop="performer">
+                                                    <p class="speaker-name">{{ speaker.honorific }} {{ speaker.name }} {{ speaker.surname }}
+                                                    <span class="speaker-position">{{ speaker.institution }}</span>
+                                                    </p>
+                                                    </li>
+                                                    {% endif %}
+                                                {% endfor %}    
+                                            {% endfor %}
+                                        </ul>
+                                        <div class="session-topics">
+                                            {% for topic in site.data.topics %}
+                                                {% for stopic in session.topics %}
+                                                    {% if topic.id == stopic %}
+                                                    <div class="session-topic session-topic-{{ topic.id }}">{{ topic.name }}</div>
+                                                    {% endif %}
+                                                {% endfor %}
+                                            {% endfor %}
+                                        </div>
+
+                            </td>
+                        {% elsif slot == session.id and session.service != null %}
+                            <td colspan="{{ cs }}" rowspan="{{ rs }}" class="slot session-break" data-slot-detail="{{ session.place }}">
+                                <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                    {% if session.description != null %}
+                                    <p class="service-description">{{ session.description }}</p>
+                                    {% endif %}
+                            </td>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </table>
+        {% endfor %}
+    </div>
+</section>
+<!-- End Schedule Section -->
