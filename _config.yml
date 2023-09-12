@@ -13,7 +13,7 @@ future: true # Enable future posts (date > current date)
 # Site Settings
 title: "Research Bazaar Northern Territory"
 email: "mailto:jerome.apresto@cdu.edu.au"
-description: "Run by a team of volunteers from Northern Territory universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
+description: "Run by a team of volunteers from Charles Darwin University, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
 baseurl: "/resbaz2023NT"
 url: "https://resbaznt.github.io/resbaz2023NT/"
 permalink: "/blog/:title"
