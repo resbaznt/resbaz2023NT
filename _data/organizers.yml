@@ -13,14 +13,14 @@
      - {name: "", description: "Inspired NT", link: "https://www.inspirednt.net/", imageUrl: "../img/organizers/Inspired NT.png"}
      - {name: "", description: "NTG", link: "https://www.ntg.gov.au/", imageUrl: "../img/organizers/NTG1.jpg"}
 -
-  group: "Main organisers"
+  group: "Main organiser"
   elements: 
      - {name: "", description: "Charles Darwin University", link: "https://www.cdu.edu.au/", imageUrl: "../img/organizers/cdu.jpg", width: "120px"}
      #- {name: "Griffith Uni", description: "Griffith Uni", link: "https://www.griffith.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
 - 
-  #group: "Co-organisers"
-  #elements: 
-  #  - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
+  group: "Partner"
+  elements: 
+    - {name: "October Business Month", description: "October Business Month", link: "https://obm.nt.gov.au/", imageUrl: "../img/organizers/QUT.gif"}
   #  - {name: "UQ", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
   #  - {name: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
   #  - {name: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/", imageUrl: "../img/organizers/bond-university-logo.png"}
