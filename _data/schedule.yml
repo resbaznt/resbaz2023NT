@@ -56,19 +56,8 @@
     }
     - {
       startTime: "13:30",
-      endTime: "14:00",
-      sessionIds: [1064,1066,1067],
-      rows:       [3,3,3]      
-    }
-    - {
-      startTime: "14:00",
-      endTime: "14:30",
-      sessionIds: []
-    }
-    - {
-      startTime: "14:30",
       endTime: "15:00",
-      sessionIds: []
+      sessionIds: [1064,1066,1067]
     }
     - {
       startTime: "15:00",
