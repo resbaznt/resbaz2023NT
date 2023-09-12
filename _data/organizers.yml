@@ -20,7 +20,7 @@
 - 
   group: "Partner"
   elements: 
-    - {name: "October Business Month", description: "October Business Month", link: "https://obm.nt.gov.au/", imageUrl: "../img/organizers/QUT.gif"}
+    - {name: "October Business Month", description: "October Business Month", link: "https://obm.nt.gov.au/", imageUrl: "../img/organizers/OBM.JPG"}
   #  - {name: "UQ", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
   #  - {name: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
   #  - {name: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/", imageUrl: "../img/organizers/bond-university-logo.png"}
