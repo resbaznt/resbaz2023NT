@@ -38,17 +38,12 @@
     }
     - {
       startTime: "11:00",
-      endTime: "11:30",
+      endTime: "11:45",
       sessionIds: [1053,1063,1061],
-      rows:       [3,3,1]
+      rows:       [2,2,1]
     }
     - {
-      startTime: "11:30",
-      endTime: "12:00",
-      sessionIds: []
-    }
-    - {
-      startTime: "12:00",
+      startTime: "11:45",
       endTime: "12:30",
       sessionIds: [1056],
       rows:       [1]
