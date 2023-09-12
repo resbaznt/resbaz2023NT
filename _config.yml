@@ -206,7 +206,7 @@ footerBlocks:
   links:
     - {link: "https://www.cdu.edu.au", text: "Charles Darwin University", imageUrl: "../img/organizers/cdu.jpg"}
     - {link: "https://www.intersect.org.au/", text: "Intersect", imageUrl: "../img/organizers/cdu.jpg"}
-    - {link: "https://www.intersect.org.au/", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB_trans.png"}
+    - {link: "https://ardc.edu.au/", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB_trans.png"}
     
  -    
   title: "Silver Sponsor"
