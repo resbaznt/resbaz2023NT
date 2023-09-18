@@ -223,3 +223,11 @@ Join us for this live coding workshop where we write programs that produce resul
   service: true
   hidden: true
   description: ""
+-
+  id: 1071
+  title: "Creating a new culture around authenticity and generative AI"
+  subtype: workshop
+  speakers: [14]
+  service: true
+  hidden: true
+  description: ""
