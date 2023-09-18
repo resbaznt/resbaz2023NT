@@ -41,7 +41,7 @@
   name: "Darren"
   surname: "Brain"
   title: "Marketing Manager, Gale"
-  bio: "Darren has worked in the library vendor industry since 2000 and has been part of the Gale ANZ team since 2014, initially working as an Account Manager. He has recently taken on the responsibilities of managing marketing & conferences for Gale in Australia and New Zealand."
+  bio: "Darren has worked in the library vendor industry since 2000 and has been part of the Gale ANZ team since 2014, initially working as an Account Manager.  He has recently taken on the responsibilities of managing marketing & conferences for Gale in Australia and New Zealand.   "
   thumbnailUrl: "DarrenBrain.jpg"
   # set this rockstar to true for keynote speaker
   rockstar: false
@@ -52,7 +52,7 @@
   name: "Sarah"
   surname: "Sutcliffe"
   title: "Inspired NT"
-  bio: "Sarah Sutcliffe combines her dual passions of science and art to facilitate science communication projects in her role as manager of Inspired NT. A master’s in environmental science and experience in live event production has led her on a quest to combine technical and artistic skills to better communicate with audiences of all types. In this session Sarah will show you some of the tools and programs available to help you expand your research impact."
+  bio: "Sarah Sutcliffe combines her dual passions of science and art to facilitate science communication projects in her role as manager of Inspired NT. A master’s in environmental science and experience in live event production has led her on a quest to combine technical and artistic skills to better communicate with audiences of all types. In this session Sarah will show you some of the tools and programs available to help you expand your research impact. "
   thumbnailUrl: "SarahSutcliffe.jpg"
   # set this rockstar to true for keynote speaker
   rockstar: false
@@ -63,9 +63,9 @@
   name: "Cat"
   surname: "Kutay"
   title: "Lecturer, Charles Darwin University"
-  bio: "Cat Kutay is descended from seafarers of Celtic and Aboriginal origin. Cat is a Lecturer in the Faculty of Science and Technology at Charles Darwin University. She works with Aboriginal communities for online language learning and story sharing as a way for Aboriginal culture and knowledge to be acknowledged and integrated into Australian engineering approaches.
-She is a Computer and Electrical Engineer. She manages projects developing software for web services for Indigenous Knowledge sharing, including Aboriginal language learning and embed Indigenous Knowledge in university teaching.
-Cat Kutay's research is in the areas of Indigenous Knowledge management, including language learning using online systems and mobile apps; Human-Computer Interaction, in particular, the collection and presentation of information for exploration and pattern matching; Computer Supported Collaborative Learning (CSCL); Artificial agents for emergent narrative in games; and Digital History through Games Development."
+  bio: "Cat Kutay is descended from seafarers of Celtic and Aboriginal origin. Cat is a Lecturer in the Faculty of Science and Technology at Charles Darwin University. She works with Aboriginal communities for online language learning and story sharing as a way for Aboriginal culture and knowledge to be acknowledged and integrated into Australian engineering approaches. 
+She is a Computer and Electrical Engineer. She manages projects developing software for web services for Indigenous Knowledge sharing, including Aboriginal language learning and embed Indigenous Knowledge in university teaching. 
+Cat Kutay's research is in the areas of Indigenous Knowledge management, including language learning using online systems and mobile apps; Human-Computer Interaction, in particular, the collection and presentation of information for exploration and pattern matching; Computer Supported Collaborative Learning (CSCL); Artificial agents for emergent narrative in games; and Digital History through Games Development. "
   thumbnailUrl: "CatKutay.jpg"
   # set this rockstar to true for keynote speaker
   rockstar: false
@@ -88,7 +88,7 @@ Cat Kutay's research is in the areas of Indigenous Knowledge management, includi
   name: "Melroy"
   surname: "Almeida"
   title: "Australian Access Federation"
-  bio: "Melroy works at the Australian Access Federation (AAF) and his main role is to lead the Australian ORCID Consortium. Melroy works closely with consortium members in helping them with their communication and implementation strategies and to realise benefits of their ORCID consortium membership.  He is a big fan of persistent identifiers and believes in their ability to enhance research and make it FAIR. Melroy also collaborates with other NCRIS providers to further persistent identifiers and build a community of like-minded practitioners."
+  bio: "Melroy works at the Australian Access Federation (AAF) and his main role is to lead the Australian ORCID Consortium. Melroy works closely with consortium members in helping them with their communication and implementation strategies and to realise benefits of their ORCID consortium membership.  He is a big fan of persistent identifiers and believes in their ability to enhance research and make it FAIR. Melroy also collaborates with other NCRIS providers to further persistent identifiers and build a community of like-minded practitioners. "
   thumbnailUrl: "MelroyAlmeida.jpg"
   # set this rockstar to true for keynote speaker
   rockstar: false
@@ -99,7 +99,7 @@ Cat Kutay's research is in the areas of Indigenous Knowledge management, includi
   name: "Rachel"
   surname: "Croker"
   title: "Consultant Organisational Capability and Engagement, Charles Darwin University"
-  bio: "Rachael is an experienced facilitator, passionate about helping people build confidence and overcome their fears. With a background is adult education teaching and management, Rachael now works as an Organisational Capability and Engagement Consultant at CDU, researching, designing, and delivering interactive and engaging workshops for employees to enhance their skills and form connections across the university. She specialises in leadership training and has a particular passion for helping empower women in leadership positions."
+  bio: "Rachael is an experienced facilitator, passionate about helping people build confidence and overcome their fears. With a background is adult education teaching and management, Rachael now works as an Organisational Capability and Engagement Consultant at CDU, researching, designing, and delivering interactive and engaging workshops for employees to enhance their skills and form connections across the university. She specialises in leadership training and has a particular passion for helping empower women in leadership positions.  "
   thumbnailUrl: "RachaelCroker.jpg"
   # set this rockstar to true for keynote speaker
   rockstar: false
