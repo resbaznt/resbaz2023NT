@@ -118,10 +118,10 @@ Cat Kutay's research is in the areas of Indigenous Knowledge management, includi
     #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
 -
   id: 11
-  name: "Carla"
+  name: "Dr Carla"
   surname: "Eisemberg"
-  title: ""
-  bio: ""
+  title: "Lecturer, Charles Darwin University"
+  bio: "Dr Carla Eisemberg is a Lecturer in STEM Pathways and Associate Dean of Innovation at the Faculty of Science and Technology. Carla leads research, science outreach projects in partnership with a diverse group of stakeholders such as industry partners, governments and traditional communities in Northern Australia, Brazil, Papua New Guinea, Timor-Leste and Tropical Asia. She is interested in the broader themes of wildlife conservation, environmental education, remote communities STEN and science communication."
   thumbnailUrl: "CarlaEisemberg.jpg"
   # set this rockstar to true for keynote speaker
   rockstar: false
