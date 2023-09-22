@@ -193,12 +193,12 @@ Join us for this live coding workshop where we write programs that produce resul
   description: "This presentation will focus on Open Access (OA) publishing, delving into its core concepts, benefits, and complexities. The presentation illuminates OA's essence – unrestricted online access to scholarly content. It discusses OA's advantages, including heightened research visibility and impact, while acknowledging the intricacies researchers face regarding OA journals. This presentation equips scholars to engage meaningfully with OA's transformative publishing options, including information on Read and Publishing agreements and levels of OA for different journals."
 -
   id: 1067
-  title: "Digital Tools for STEM Communication"
+  title: "Digital Tools for STEM Communication (mini-symposium)"
   subtype: workshop
   speakers: [11]
-  service: true
-  hidden: true
-  description: ""
+  #service: true
+  #hidden: true
+  description: "In an increasingly interconnected world, proficiency in using digital tools not only enhances our ability to communicate research findings but also opens doors to collaborations, job opportunities, and grants. This mini-symposium will introduce some of the CDU and Inspired NT projects for Science Communication using digital tools. "
 -
   id: 1068
   title: "What is the best digital tool for my research (TBC)"
@@ -233,11 +233,11 @@ Join us for this live coding workshop where we write programs that produce resul
   description: "This short presentation will provide some key strategies around having the critical conversation with your research students about the use of Generative AI. This is with the view to both demystifying its use and creating a new culture around its use. As it is still early day, and even some of our own research staff are still coming to terms with this, it is timely to consider the development of an institutional framework for its use. Such a framework is the beginning of creating a new culture that can lay the foundations for a productive engagement with Generative AI. "
 -
   id: 1072
-  title: "Careers in the Digital Space Outside the IT Pathway"
+  title: "Careers in the Digital Space Outside the IT Pathway (Panel Discussion and Round Table)"
   subtype: workshop
   speakers: [11]
-  service: true
-  hidden: true
+  #service: true
+  #hidden: true
   description: "Discover the diverse opportunities and alternative pathways towards a career in the digital space, while gaining invaluable insights from experts. What skills do you need? Are you already developing this skills in your current field? How can you transition to a career in the digital space, if you don’t have an IT background. This symposium will be your gateway to thriving in the Territory evolving digital landscape.  "
 -
   id: 1073
