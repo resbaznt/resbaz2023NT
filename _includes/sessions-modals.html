@@ -23,9 +23,16 @@
 						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
 						</div>
 						{% endif %}
+						{% if session.description == "TBA" or session.description == null or session.description == "" %}
+						<p class="theme-description">--</p>
+						{% else %}
 						<p class="theme-description">{{ session.description }}</p>
+						{% endif %}
+						{% if session.subtype == "workshop" and session.registerUrl != null %}
+						<p class="theme-metadata"><strong>Note:</strong> workshops are not covered by general registration and places for workshops are limited. <strong><a href="{{ session.registerUrl }}" target="_blank">Register your interest here.</a></strong></p>
+                        {% endif %}
 						{% if session.presentation %}
-						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">Book your place</a>
+						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
 						{% endif %}
 						<hr>
 						<div class="people-details">
@@ -37,8 +44,8 @@
 											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
 										</div>
 										<div class="col-md-10 col-sm-10 details">
-											<p class="name">{{ speaker.name }} {{ speaker.surname }}
-												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
+											<p class="name">{{ speaker.honorific }} {{ speaker.name }} {{ speaker.surname }}
+												<span class="position">{{ speaker.institution }}</span>
 											</p>
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">
@@ -64,6 +71,16 @@
 									{% endif %}
 								{% endfor %}
 							{% endfor %}
+							{% if session.logo != null %}
+									<div class="row">
+										<div class="col-md-2 col-sm-2">
+										</div>
+										<div class="col-md-10 col-sm-10 details">
+											<a href="{{ session.logoUrl }}" target="_blank"><img class="logo-img" src="{{ site.baseurl | append: '/img/people/' | append: session.logo }}" /></a>
+										</div>
+										</div>
+									</div>
+							{% endif %}
 						</div>
 					</div>
 				</div>
