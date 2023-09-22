@@ -239,3 +239,11 @@ Join us for this live coding workshop where we write programs that produce resul
   service: true
   hidden: true
   description: "Discover the diverse opportunities and alternative pathways towards a career in the digital space, while gaining invaluable insights from experts. What skills do you need? Are you already developing this skills in your current field? How can you transition to a career in the digital space, if you don’t have an IT background. This symposium will be your gateway to thriving in the Territory evolving digital landscape.  "
+-
+  id: 1073
+  title: "Top End Weeds: Using gamification to reach your stakeholders"
+  subtype: workshop
+  speakers: [15]
+  service: true
+  hidden: true
+  description: "Mini-symposium: Digital Tools for STEM Communication"
