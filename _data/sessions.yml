@@ -169,20 +169,20 @@ We teach using Jupyter notebooks, which allow program code, results, visualisati
 Join us for this live coding workshop where we write programs that produce results, using the researcher-focused training modules from the highly regarded Software Carpentry Foundation."
 -
   id: 1064
-  title: "QGIS"
+  title: "Using QGIS"
   subtype: workshop
   speakers: [12,13]
   #service: true
   #hidden: true
-  description: ""
+  description: "QGIS is free open-source software and is an excellent platform for exploring fire data and including your own local information to support planning. The training material provided here is based on examples of mapping and data analysis for ecological and NRM applications in the North of Australia. Pictures of the earth’s surface are captured from satellites orbiting the earth and are a vital tool for mapping and monitoring landscapes. This presentation will provide an introduction into how satellite imagery can be used to inform landscape management operations to maximise long-term environmental and economic benefits."
 -
   id: 1066
-  title: "TBC"
+  title: "Notebook-based data analysis for reproducible research"
   subtype: workshop
   speakers: 
   #service: true
-  hidden: true
-  description: ""
+  #hidden: true
+  description: "Trends towards data-driven, reproducible research are transforming many scientific disciplines. This workshop will introduce principles and methods of using Jupyter code notebooks along with API-based data access for research. Jupyter notebooks are useful for collaborative or solo research, and are especially beneficial in combining description of the research techniques along with code. In the session, a geocoding notebook developed by the Australian Text Analytics Platform (www.atap.edu.au) will be used to access data from the Language Data Commons of Australia (data.ldaca.edu.au). The workshop is suitable for people with no coding experience, as well as experienced coders. "
 -
   id: 1065
   title: "Open Sesame: A Researcher's Guide to Open Access Publishing"
@@ -247,3 +247,19 @@ Join us for this live coding workshop where we write programs that produce resul
   service: true
   hidden: true
   description: "Mini-symposium: Digital Tools for STEM Communication"
+  
+  id: 1074
+  title: "Creating a new culture around authenticity and generative AI"
+  subtype: workshop
+  speakers: []
+  #service: true
+  #hidden: true
+  description: "This short presentation will provide some key strategies around having the critical conversation with your research students about the use of Generative AI. This is with the view to both demystifying its use and creating a new culture around its use. As it is still early day, and even some of our own research staff are still coming to terms with this, it is timely to consider the development of an institutional framework for its use. Such a framework is the beginning of creating a new culture that can lay the foundations for a productive engagement with Generative AI."
+  
+  id: 1075
+  title: "Satellite data"
+  subtype: workshop
+  speakers: []
+  #service: true
+  #hidden: true
+  description:"Pictures of the earth’s surface are captured from satellites orbiting the earth and are a vital tool for mapping and monitoring landscapes. This presentation will provide an introduction into how satellite imagery can be used to inform landscape management operations to maximise long-term environmental and economic benefits."
