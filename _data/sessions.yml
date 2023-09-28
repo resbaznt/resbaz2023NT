@@ -262,4 +262,4 @@ Join us for this live coding workshop where we write programs that produce resul
   speakers: []
   #service: true
   #hidden: true
-  description:"Pictures of the earth’s surface are captured from satellites orbiting the earth and are a vital tool for mapping and monitoring landscapes. This presentation will provide an introduction into how satellite imagery can be used to inform landscape management operations to maximise long-term environmental and economic benefits."
+  description: "Pictures of the earth’s surface are captured from satellites orbiting the earth and are a vital tool for mapping and monitoring landscapes. This presentation will provide an introduction into how satellite imagery can be used to inform landscape management operations to maximise long-term environmental and economic benefits."
