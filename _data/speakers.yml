@@ -132,7 +132,7 @@ Cat Kutay's research is in the areas of Indigenous Knowledge management, includi
   name: "Rohan"
   surname: "Fisher"
   title: "Lead satellite-derived fire information analyst for the North Australian Fire Information service, Charles Darwin University"
-  bio: "Dr Rohan Fisher is a lead satellite-derived fire information analyst for the North Australian Fire Information service at Charles Darwin University. Satellite image and spatial data analyst for the last 30 years, initially for CSIRO in Canberra and subsequently for the Northern Territory government in Alice Springs and Darwin. For the last 18 years, he has worked as a Research Fellow at Charles Darwin University, focusing on GIS and Remote Sensing tools for natural resource management and good governance in Eastern Indonesia and best practice savanna fire management in Northern Australia. His current research and training development work is focused on developing Projection Augmented Landscape Models; using low-tech tools to create dynamic spatial holograms of country."
+  bio: "Rohan Fisher has worked with satellite data and GIS for the last 30 years, initially for CSIRO in Canberra, and subsequently for the Northern Territory government in Alice Springs and Darwin. For the last 18 years, he has worked as a Research Fellow at Charles Darwin University, focusing on GIS and Remote Sensing tools for natural resource management and good governance in Eastern Indonesia and best practice savanna fire management in Northern Australia. His current research and training development work is focused on developing Projection Augmented Landscape Models; using low-tech tools to create dynamic spatial holograms of landscapes."
   thumbnailUrl: "RohanFisher.jpg"
   # set this rockstar to true for keynote speaker
   rockstar: false
@@ -142,8 +142,8 @@ Cat Kutay's research is in the areas of Indigenous Knowledge management, includi
   id: 13
   name: "Kerry"
   surname: "Crosbie"
-  title: ""
-  bio: ""
+  title: "Bushfires Spatial Data and Outreach Officer"
+  bio: "My professional foundations began within the pastoral industry working on cattle stations and farms throughout the Northern Territory before moving off into a career in the field of wildlife conservation and threatened species management. I have always been interested in landscape ecology – particularly the effects of fire within the landscape. I completed a Bachelor of Environmental Science in 2019 at Charles Darwin University majoring in both ‘Landscape and Spatial Ecology’ and ‘Biodiversity and Conservation Biology’ introducing and developing a strong interest in the use of GIS technology and monitoring changes within the landscape. I now work for the North Australia (and Rangelands) Fire Information service (NAFI) as a bushfires spatial data and outreach officer; responsible for mapping the Kimberley and Western Australia’s rangelands as well as providing project specific high-resolution burnt area mapping and training to fire managers on the use of NAFI and Geographical Information Systems for mapping, analysing, and reporting."
   thumbnailUrl: "KerryCrosbie.png"
   # set this rockstar to true for keynote speaker
   rockstar: false
@@ -167,6 +167,28 @@ Cat Kutay's research is in the areas of Indigenous Knowledge management, includi
   title: "Biologis and Environmental scientist, Charles Darwin University"
   bio: "Dr. Stephen Reynolds is a biologist and environmental scientist with a background in zoological research (mainly amphibians), biological assessment surveys, environmental education and natural resource management. Stephen has worked in the NT over the past 15 years with scientists, managers, consultants and Ranger groups. He is currently a Lecturer in STEM at Charles Darwin University.   "
   thumbnailUrl: "StephenReynolds.jpg"
+  # set this rockstar to true for keynote speaker
+  rockstar: false
+  ribbon:
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 16
+  name: "Jenny"
+  surname: "Davis"
+  title: "Professor - Freshwater Ecology Research Institute Environment & Livelihoods"
+  bio: "Professor Jenny Davis is a professor in the Research Institute for Environment and Livelihoods (RIEL) at CDU specialising in freshwater ecology. She has undertaken projects on freshwater biodiversity and wetland conservation across Australia. She worked with her son to produce Identifly, a free app that can be used to identify of the dragonflies and damselflies of the Top End, and a website for a recent citizen science outback water project  "
+  thumbnailUrl: "JennyDavis.jpg"
+  # set this rockstar to true for keynote speaker
+  rockstar: false
+  ribbon:
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 17
+  name: "Erica"
+  surname: "Garcia"
+  title: "Research Fellow-Research Institute for Environment & Livelihoods"
+  bio: "Dr. Erica Garcia is a research fellow in the Research Institute for Environment and Livelihoods (RIEL) at CDU specialising in aquatic ecology. She teaches units in Environmental Science and her recent work examines the resiliency of wet/dry tropical food webs and how they differ across a gradient of water permanency."
+  thumbnailUrl: "EricaGarcia.jpg"
   # set this rockstar to true for keynote speaker
   rockstar: false
   ribbon:
