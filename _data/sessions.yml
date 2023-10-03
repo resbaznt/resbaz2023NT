@@ -263,3 +263,11 @@ Join us for this live coding workshop where we write programs that produce resul
   #service: true
   #hidden: true
   description: "Pictures of the earth’s surface are captured from satellites orbiting the earth and are a vital tool for mapping and monitoring landscapes. This presentation will provide an introduction into how satellite imagery can be used to inform landscape management operations to maximise long-term environmental and economic benefits."
+
+  id: 1076
+  title: "Citizen science: Northern Australian Groundwater Security Project (part of Mini-symposium: Digital Tools for STEM Communication)"
+  subtype: workshop
+  speakers: []
+  #service: true
+  #hidden: true
+  description: "Groundwater is an important resource across northern Australia and, with vast distances to contend with, not a lot is known about water quality within aquifer systems. But one innovative research project is set to overcome resource limitations with the help of citizen scientists."
