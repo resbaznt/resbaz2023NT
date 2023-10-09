@@ -65,14 +65,14 @@
   subtype: workshop
   speakers: [3]
   #service: true
-  description: "This is an introductory workshop about R/R studio for those who have not used R before. We will use the online R studio environment on Posit Cloud and get familiar with the R studio interface, import a dataset and do some basic summary statistics and plotting while using an R script."
+  description: "This is an introductory workshop about R/R studio for those who have not used R before. We will use the online R studio environment on Posit Cloud and get familiar with the R studio interface, best practice R coding, import a dataset, do some basic summary statistics and plotting, and learn to use simple functions and loops. Parts of this workshop are based on the training modules of Data Carpentry for Biologists."
 -
   id: 1054
   title: "An introduction to data cleaning, visualisation and reporting in R"
   subtype: workshop
   speakers: [3]
   #service: true
-  description: "This beginner’s workshop is all about data cleaning and visualisation using the R package tidyverse. After cleaning our data, we will create various plots for data exploration and present these in an interactive html or pdf report using R Markdown. "
+  description: "This beginner’s workshop is all about data cleaning and visualisation using the R package tidyverse. After cleaning our data, we will create various plots for data exploration and present these in an interactive html using R Markdown. Parts of this workshop are based on the training modules of Software Carpentry. Basic R knowledge required (e.g. gained in Introduction to R workshop)."
 -
   id: 1055
   title: "Introducing the Gale Digital Scholar Lab: Explore Primary Sources Through a New Lens"
@@ -228,8 +228,8 @@ Join us for this live coding workshop where we write programs that produce resul
   title: "Creating a new culture around authenticity and generative AI"
   subtype: workshop
   speakers: [14]
-  service: true
-  hidden: true
+  #service: true
+  #hidden: true
   description: "This short presentation will provide some key strategies around having the critical conversation with your research students about the use of Generative AI. This is with the view to both demystifying its use and creating a new culture around its use. As it is still early day, and even some of our own research staff are still coming to terms with this, it is timely to consider the development of an institutional framework for its use. Such a framework is the beginning of creating a new culture that can lay the foundations for a productive engagement with Generative AI. "
 -
   id: 1072
