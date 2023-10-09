@@ -241,33 +241,41 @@ Join us for this live coding workshop where we write programs that produce resul
   description: "Discover the diverse opportunities and alternative pathways towards a career in the digital space, while gaining invaluable insights from experts. What skills do you need? Are you already developing this skills in your current field? How can you transition to a career in the digital space, if you don’t have an IT background. This symposium will be your gateway to thriving in the Territory evolving digital landscape.  "
 -
   id: 1073
-  title: "Top End Weeds: Using gamification to reach your stakeholders"
+  title: "Top End Weeds: Using gamification to reach your stakeholders  (part of Mini-symposium: Digital Tools for STEM Communication)"
   subtype: workshop
   speakers: [15]
-  service: true
-  hidden: true
-  description: "Mini-symposium: Digital Tools for STEM Communication"
-  
+  #service: true
+  #hidden: true
+  description: ""
+-  
   id: 1074
   title: "Creating a new culture around authenticity and generative AI"
   subtype: workshop
-  speakers: []
+  speakers: [14]
   #service: true
   #hidden: true
   description: "This short presentation will provide some key strategies around having the critical conversation with your research students about the use of Generative AI. This is with the view to both demystifying its use and creating a new culture around its use. As it is still early day, and even some of our own research staff are still coming to terms with this, it is timely to consider the development of an institutional framework for its use. Such a framework is the beginning of creating a new culture that can lay the foundations for a productive engagement with Generative AI."
-  
+-  
   id: 1075
   title: "Satellite data"
   subtype: workshop
-  speakers: []
+  speakers: [12, 13]
   #service: true
   #hidden: true
   description: "Pictures of the earth’s surface are captured from satellites orbiting the earth and are a vital tool for mapping and monitoring landscapes. This presentation will provide an introduction into how satellite imagery can be used to inform landscape management operations to maximise long-term environmental and economic benefits."
-
+-
   id: 1076
   title: "Citizen science: Northern Australian Groundwater Security Project (part of Mini-symposium: Digital Tools for STEM Communication)"
   subtype: workshop
-  speakers: []
+  speakers: [16,17]
   #service: true
   #hidden: true
   description: "Groundwater is an important resource across northern Australia and, with vast distances to contend with, not a lot is known about water quality within aquifer systems. But one innovative research project is set to overcome resource limitations with the help of citizen scientists."
+-
+  id: 1077
+  title: "Introduction to Inspired NT (part of Mini-symposium: Digital Tools for STEM Communication)"
+  subtype: workshop
+  speakers: [5]
+  #service: true
+  #hidden: true
+  description: ""
