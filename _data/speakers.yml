@@ -193,3 +193,14 @@ Cat Kutay's research is in the areas of Indigenous Knowledge management, includi
   rockstar: false
   ribbon:
     #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 18
+  name: "Ben"
+  surname: "Foley"
+  title: "Language Data Scientist"
+  bio: "Ben Foley is working with the ARDC Language Data Commons of Australia and Australian Text Analytics Platform projects to develop technologies for language data analysis for community and academic researchers. Ben designs and builds technologies in many aspects of language work and research, such as reducing the tedium of tasks such as transcribing, and enabling more of the world's languages to be used in digital spaces. Ben's previous experience with Aboriginal and Torres Strait Islander language resource development has resulted in apps and websites galore, including the gambay.com.au First Languages map, documenting community-preferred locations for the hundreds of languages in Australia; and the iltyemiltyem.com sign language website. "
+  thumbnailUrl: "BenFoley.jpg"
+  # set this rockstar to true for keynote speaker
+  rockstar: false
+  ribbon:
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
