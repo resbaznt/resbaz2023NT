@@ -220,8 +220,8 @@ Join us for this live coding workshop where we write programs that produce resul
   title: "Digital Tools in my Research: HDR 3-min presentation challenge"
   subtype: workshop
   speakers: []
-  service: true
-  hidden: true
+  #service: true
+  #hidden: true
   description: "In an increasingly interconnected world, proficiency in using digital tools not only enhances our ability to communicate research findings but also opens doors to collaborations, job opportunities, and grants. This mini-symposium will introduce some of the CDU and Inspired NT projects for Science Communication using digital tools. "
 -
   id: 1071
