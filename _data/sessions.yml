@@ -164,9 +164,7 @@ Programming is becoming more and more popular, with many researchers using progr
   speakers: [1]
   #service: true
   #hidden: true
-  description: "Python has deservedly become a popular language for scientific computing. It has all the friendly features and conveniences you’d expect of a modern programming language, and also a rich set of libraries for working with data.
-We teach using Jupyter notebooks, which allow program code, results, visualisations and documentation to be blended seamlessly. Perfect for sharing insights with others while producing reproducible research.
-Join us for this live coding workshop where we write programs that produce results, using the researcher-focused training modules from the highly regarded Software Carpentry Foundation."
+  description: "This workshop consists of two days. If you would like to participate it in, make sure to be available on Wednesday and Thursday from 9.00am to 12.30 pm. Python has deservedly become a popular language for scientific computing. It has all the friendly features and conveniences you’d expect of a modern programming language, and also a rich set of libraries for working with data. We teach using Jupyter notebooks, which allow program code, results, visualisations and documentation to be blended seamlessly. Perfect for sharing insights with others while producing reproducible research. Join us for this live coding workshop where we write programs that produce results, using the researcher-focused training modules from the highly regarded Software Carpentry Foundation."
 -
   id: 1064
   title: "Using QGIS"
