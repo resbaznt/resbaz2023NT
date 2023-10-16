@@ -204,3 +204,14 @@ Cat Kutay's research is in the areas of Indigenous Knowledge management, includi
   rockstar: false
   ribbon:
     #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 19
+  name: "Barbara"
+  surname: "White"
+  title: "User Experience Specialist, Enterprise Project Services, Department of Corporate and Digital Development, NTG"
+  bio: "Barbara has been working in NTG for 4 years, providing advice across a range of digital software development projects about user experience and human centred design. Barbara has formal qualifications in Education beginning her professional life in North Queensland teaching in early childhood. Barbara found teaching young children prepared her well for practising interaction design, a key component of user experience which she began in the early 1990’s. She has worked in interaction design roles at James Cook University and Charles Darwin University. She began teaching human computer interaction in IT in 2003 as well as other web focused software development topics."
+  thumbnailUrl: "BarbaraWhite.jpg"
+  # set this rockstar to true for keynote speaker
+  rockstar: false
+  ribbon:
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
