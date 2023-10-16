@@ -264,12 +264,12 @@ Expressions of interest close on 13 October 2023
   description: "This short presentation will provide some key strategies around having the critical conversation with your research students about the use of Generative AI. This is with the view to both demystifying its use and creating a new culture around its use. As it is still early day, and even some of our own research staff are still coming to terms with this, it is timely to consider the development of an institutional framework for its use. Such a framework is the beginning of creating a new culture that can lay the foundations for a productive engagement with Generative AI."
 -  
   id: 1075
-  title: "Satellite data"
+  title: "Satellite data for fire mapping, monitoring assessment and planning"
   subtype: workshop
   speakers: [12, 13]
   #service: true
   #hidden: true
-  description: "Pictures of the earth’s surface are captured from satellites orbiting the earth and are a vital tool for mapping and monitoring landscapes. This presentation will provide an introduction into how satellite imagery can be used to inform landscape management operations to maximise long-term environmental and economic benefits."
+  description: "The use of satellite and GIS information to map, monitor, assess, and report is critical to informing strategic fire management planning and response operations, to maximise long-term environmental and economic benefits, and to minimise detrimental impacts.  This session will give an overview of satellite data and tools used to map and monitor fires across remote and region Australia."
 -
   id: 1076
   title: "Citizen science: Northern Australian Groundwater Security Project (part of Mini-symposium: Digital Tools for STEM Communication)"
