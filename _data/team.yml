@@ -120,3 +120,14 @@
     - {abbr: "", title: "Manager Client Services and Communication, Charles Darwin University"}
   social: 
     - {name: "", link: ""}
+-    
+  id: 11
+  name: "Rebecca"
+  surname: "Adams"
+  title: "Information Access Specialist, Charles Darwin University"
+  thumbnailUrl: "RebeccaAdams.png"
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Information Access Specialist, Charles Darwin University"}
+  social: 
+    - {name: "", link: ""}
