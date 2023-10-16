@@ -109,3 +109,14 @@
     - {abbr: "", title: "Associate Director Client Experience, Charles Darwin University"}
   social: 
     - {name: "", link: ""}
+-    
+  id: 10
+  name: "Crystal"
+  surname: "Brunyee"
+  title: "Manager Client Services and Communication, Charles Darwin University"
+  thumbnailUrl: "CrystalBrunyee.jpg"
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Manager Client Services and Communication, Charles Darwin University"}
+  social: 
+    - {name: "", link: ""}
