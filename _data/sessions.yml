@@ -294,3 +294,11 @@ Expressions of interest close on 13 October 2023
   #service: true
   #hidden: true
   description: "Trends towards data-driven, reproducible research are transforming many scientific disciplines. This workshop will introduce principles and methods of using Jupyter code notebooks along with API-based data access for research. Jupyter notebooks are useful for collaborative or solo research, and are especially beneficial in combining description of the research techniques along with code. In the session, a geocoding notebook developed by the Australian Text Analytics Platform (www.atap.edu.au) will be used to access data from the Language Data Commons of Australia (data.ldaca.edu.au). The workshop is suitable for people with no coding experience, as well as experienced coders.  "
+-
+  id: 1078
+  title: "Careers in the Digital Space Outside the IT Pathway"
+  subtype: workshop
+  speakers: [19]
+  #service: true
+  #hidden: true
+  description: ""
