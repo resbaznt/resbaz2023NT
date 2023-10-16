@@ -98,3 +98,14 @@
     - {abbr: "", title: "Academic and Research Librarian"}
   social: 
     - {name: "", link: ""}
+-    
+  id: 9
+  name: "Kylie"
+  surname: "McMartin"
+  title: "Associate Director Client Experience, Charles Darwin University"
+  thumbnailUrl: "KylieMcMartin.jpg"
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Associate Director Client Experience, Charles Darwin University"}
+  social: 
+    - {name: "", link: ""}
