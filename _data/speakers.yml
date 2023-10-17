@@ -247,6 +247,6 @@ children that show up occasionally. He is deeply committed the Northern Territor
 way of life here in this very special part of the world"
   thumbnailUrl: "ChrisHosking.png"
   # set this rockstar to true for keynote speaker
-  rockstar: false
+  rockstar: true
   ribbon:
     #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
