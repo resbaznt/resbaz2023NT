@@ -226,3 +226,36 @@ Cat Kutay's research is in the areas of Indigenous Knowledge management, includi
   rockstar: true
   ribbon:
     #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 21
+  name: "Bronwyn"
+  surname: "Lo"
+  title: "Program Director | Enterprise Project Services, Department of Corporate and Digital Development, NTG"
+  bio: "Bronwyn is a Darwin local. She completed her schooling and started her working career in the NT Government in the late 80s in an admin trainee role moving into a permanent personal assistant role not long after. Bronwyn showed an interest in IT (working on Macintosh computers at the time) and went on further to secure a permanent role as an IT trainer with desktop publishing on the side. <br> Subsequently Bronwyn studied a Bachelor of Business Degree (IS). Bronwyn has held several IT roles in various NTG agencies, reaching IT Director/CIO. Bronwyn has seen the transition of IT in NTG from text based computers to personal GUI computers, Y2K and generation of ICT outsourcing. Bronwyn has been a Program Director in the Enterprise Project Services division for the last 9 years, responsible for overseeing delivery of enterprise IT projects and programs. <br> Bronwyn was recently acknowledged for her 35 years in the NT public service. Bronwyn finds it amazing to see how far digital has grown in the NT, but believes we are only touching the surface with many more exciting things to come."
+  thumbnailUrl: "BronwynLo.jpg"
+  # set this rockstar to true for keynote speaker
+  rockstar: false
+  ribbon:
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 22
+  name: "Letchimi"
+  surname: "Wright"
+  title: "A/ Director of Marketing and Digital, Strategic Communications and Engagement, Department of Chief Minister and Cabinet, NT"
+  bio: "Initially employed as a communications officer Letchimi’s skills in problem solving, specifically in the areas of new software/online tools, social media and experience in web builds assisted her in winning the role of Digital Manager, managing NT Government digital channels. <br> She then moved to a Strategic Projects Lead role charged with the procurement and implementation of a new Customer Relationship Management (CRM) tool for the agency. She is now in charge of both delivery streams as the Acting Director of Marketing and Digital. <br> Letchimi started her career in hospitality working her way up to nightclub manager at the age of 19, before moving on to manage restaurants and various bars. <br> She later returned to learning studying a Bachelor of Business with a strong marketing/management focus. Letchimi then took on the position of Marketing Manager for Casuarina Square on the completion of her degree and has since worked in various marketing and communications roles for Kerry’s Automotive Group, City of Palmerston, City of Darwin, Gateway Shopping Centre and TourismNT <br> In 2015 during a Litchfield by-election, she was elected to Councils North Ward, which she notes as her ‘accidental stint as a politician’ her aim to becoming elected centred around fixing the governance and budget issues the council was facing, it wasn’t until a friend welcomed her to politics that she considered the other implications. She did not re-elect at the request of children and by then the budget looked healthier with a number of governance procedures implemented <br> Publishing her first novel in 2019, a YA sci-fi/fantasy available on Apple Books, Amazon Books and good book retailers. Letchimi also runs a local agency Excel Model Management and continuously challenges herself to grow."
+  thumbnailUrl: "LetchimiWright.jpg"
+  # set this rockstar to true for keynote speaker
+  rockstar: false
+  ribbon:
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 23
+  name: "Matthew"
+  surname: "Russell"
+  title: "Contractor | Jack adder International <br> Business Analyst, Enterprise Project Services, Department of Corporate and Digital Development, NTG"
+  bio: "Matt has worked with NTG for 3 years as a Business Analyst. This role focuses on bridging the gap between business needs and technology. Work involves optimising the transfer of workflows and data via the software system solution in collaboration with the software vendor and the software program team. <br> Matt has qualifications in Applied Science from RMIT, and Lean 6 Sigma methodology from UTS. He has professional certifications in Audit, Root Cause Analysis, Process Reengineering and Project Management, and a member of the International Institute of Business Analysis (IIBA) and Project Management Institute (PMI).  <br>  Starting on the farm, Matt moved from a poultry factory production line to studying Business and Human Resources. It was as an SME in chicken production that he found his real passion helping people through process and system improvement.  <br>  For 15 years since, Matt has worked around Australia and the UK in Manufacturing, Mining, Engineering Services, and for the last 6 years in Human Services Domain. It was growing domain knowledge in this area that lead to more IT centric BA work - and looking to a future of increasing automation and AI, the interface of humans and their systems is where the most exciting work will be."
+  thumbnailUrl: "MatthewRussel.jpg"
+  # set this rockstar to true for keynote speaker
+  rockstar: false
+  ribbon:
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
