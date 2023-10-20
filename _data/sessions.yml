@@ -242,7 +242,7 @@ Expressions of interest close on 13 October 2023
   id: 1072
   title: "Careers in the Digital Space Outside the IT Pathway (Panel Discussion and Round Table)"
   subtype: workshop
-  speakers: [11, 21, 22, 23]
+  speakers: [11]
   #service: true
   #hidden: true
   description: "Discover the diverse opportunities and alternative pathways towards a career in the digital space, while gaining invaluable insights from experts. What skills do you need? Are you already developing this skills in your current field? How can you transition to a career in the digital space, if you don’t have an IT background. This symposium will be your gateway to thriving in the Territory evolving digital landscape.  "
@@ -298,7 +298,7 @@ Expressions of interest close on 13 October 2023
   id: 1078
   title: "Careers in the Digital Space Outside the IT Pathway"
   subtype: workshop
-  speakers: [19]
+  speakers: [19,21,22,23]
   #service: true
   #hidden: true
   description: ""
