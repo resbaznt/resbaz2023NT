@@ -259,3 +259,14 @@ Cat Kutay's research is in the areas of Indigenous Knowledge management, includi
   rockstar: false
   ribbon:
     #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 24
+  name: "Nicole"
+  surname: "Stevens"
+  title: "Senior Consultant at SRA Information Technology"
+  bio: "Nicole Stevens, based in Darwin, brings 16 years of expertise to the realm of Information Technology. Having navigated through diverse roles, from Communications and Test Analysis to Training Coordination, she has left her mark across a spectrum of industries and IT projects. Her journey has led her through the intricate worlds of local government, healthcare, energy, education, and the arts. <br> Presently, Nicole is a Business Analyst, a position she has held over the last 8 years. Away from the screens and data, Nicole has a passion for stand-up comedy, gardening and caring for her 13-year-old dog named Sidney. Nicole’s journey is a blend of professional prowess and creative flair, grounded in authenticity and a love for connecting with people, both in the boardroom and on stage."
+  thumbnailUrl: "NicoleSteven.png"
+  # set this rockstar to true for keynote speaker
+  rockstar: false
+  ribbon:
+    #- {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
